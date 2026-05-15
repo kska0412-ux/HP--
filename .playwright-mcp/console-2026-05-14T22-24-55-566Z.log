@@ -1,0 +1,6 @@
+[     159ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://tsuto-design.jp/koubo/images/header-pc.webp:0
+[     159ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://tsuto-design.jp/koubo/images/header-sp.webp:0
+[     160ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://tsuto-design.jp/koubo/images/btn-fixed-pc.webp:0
+[     160ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://tsuto-design.jp/koubo/images/btn-fixed-sp.webp:0
+[   14593ms] [WARNING] The resource https://tsuto-design.jp/koubo/images/header-pc.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://tsuto-design.jp/koubo/:0
+[   14594ms] [WARNING] The resource https://tsuto-design.jp/koubo/images/header-sp.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://tsuto-design.jp/koubo/:0

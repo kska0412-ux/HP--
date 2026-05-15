@@ -1,0 +1,57 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img [ref=e4]
+    - img [ref=e6]
+    - img [ref=e8]
+    - img [ref=e10]
+    - img [ref=e12]
+    - img [ref=e14]
+    - img [ref=e16]
+    - img [ref=e18]
+    - generic [ref=e19]:
+      - img [ref=e20]
+      - generic [ref=e21]:
+        - link [ref=e23] [cursor=pointer]:
+          - /url: https://lin.ee/B2GdtcB
+          - img [ref=e24]
+        - link [ref=e26] [cursor=pointer]:
+          - /url: ./contact.html
+          - img [ref=e27]
+    - img [ref=e29]
+    - img [ref=e31]
+    - img [ref=e33]
+    - img [ref=e35]
+    - img [ref=e37]
+    - img [ref=e39]
+    - generic [ref=e40]:
+      - img [ref=e41]
+      - generic [ref=e42]:
+        - link [ref=e44] [cursor=pointer]:
+          - /url: https://lin.ee/B2GdtcB
+          - img [ref=e45]
+        - link [ref=e47] [cursor=pointer]:
+          - /url: ./contact.html
+          - img [ref=e48]
+    - img [ref=e50]
+    - img [ref=e52]
+    - img [ref=e54]
+    - img [ref=e56]
+    - img [ref=e58]
+    - generic [ref=e59]:
+      - img [ref=e60]
+      - generic [ref=e61]:
+        - link [ref=e63] [cursor=pointer]:
+          - /url: https://lin.ee/B2GdtcB
+          - img [ref=e64]
+        - link [ref=e66] [cursor=pointer]:
+          - /url: ./contact.html
+          - img [ref=e67]
+    - img [ref=e69]
+  - contentinfo [ref=e70]:
+    - generic [ref=e71]:
+      - link "特定商取引法に基づく表示" [ref=e72] [cursor=pointer]:
+        - /url: ./tokushoho.html
+      - text: "|"
+      - link "プライバシーポリシー" [ref=e73] [cursor=pointer]:
+        - /url: https://bijouplus.hp.peraichi.com/privacy-policy
+    - generic [ref=e74]: © Bijou+ All rights reserved.

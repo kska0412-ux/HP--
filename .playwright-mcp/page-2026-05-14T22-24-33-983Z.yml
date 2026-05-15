@@ -1,0 +1,51 @@
+- generic [ref=e2]:
+  - img [ref=e4]
+  - generic [ref=e5]:
+    - img [ref=e6]
+    - generic [ref=e7]:
+      - link [ref=e9] [cursor=pointer]:
+        - /url: ./contact.html
+      - link [ref=e11] [cursor=pointer]:
+        - /url: https://lin.ee/WCwnImg
+  - img [ref=e13]
+  - img [ref=e15]
+  - img [ref=e17]
+  - img [ref=e19]
+  - generic [ref=e20]:
+    - img [ref=e21]
+    - generic [ref=e23]: お使いのブラウザは動画タグに対応していません。
+  - img [ref=e25]
+  - img [ref=e27]
+  - img [ref=e29]
+  - generic [ref=e30]:
+    - img [ref=e31]
+    - generic [ref=e32]:
+      - link [ref=e34] [cursor=pointer]:
+        - /url: ./contact.html
+      - link [ref=e36] [cursor=pointer]:
+        - /url: https://lin.ee/WCwnImg
+  - img [ref=e38]
+  - img [ref=e40]
+  - img [ref=e42]
+  - img [ref=e44]
+  - img [ref=e46]
+  - generic [ref=e48]:
+    - link [ref=e50] [cursor=pointer]:
+      - /url: ./contact.html
+    - link [ref=e52] [cursor=pointer]:
+      - /url: https://lin.ee/WCwnImg
+  - img [ref=e54]
+  - img [ref=e56]
+  - generic [ref=e58]:
+    - link [ref=e60] [cursor=pointer]:
+      - /url: ./contact.html
+    - link [ref=e62] [cursor=pointer]:
+      - /url: https://lin.ee/WCwnImg
+  - contentinfo [ref=e63]:
+    - generic [ref=e64]:
+      - link "特定商取引法に基づく表示" [ref=e65] [cursor=pointer]:
+        - /url: https://virei-stayle.jp/law/
+      - text: "|"
+      - link "プライバシーポリシー" [ref=e66] [cursor=pointer]:
+        - /url: https://virei-stayle.jp/privacy/
+    - generic [ref=e67]: © 株式会社VIREI stAyle All rights reserved.

@@ -1,0 +1,1132 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - heading "ルモワ 天王寺店(Lu more)" [level=1] [ref=e4]
+    - generic [ref=e5]:
+      - link "HOT PEPPER Beauty 国内最大級のヘアサロン ・リラク＆ビューティーサロン検索・予約サイト PRODUCED BY RECRUIT" [ref=e7] [cursor=pointer]:
+        - /url: https://beauty.hotpepper.jp/nail/
+      - generic [ref=e8]: 国内最大級のヘアサロン ・リラク＆ビューティーサロン検索・予約サイト
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "ヘルプ" [ref=e11] [cursor=pointer]:
+            - /url: javascript:void(0);
+        - listitem [ref=e12]:
+          - link "マイページ" [ref=e13] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/CSP/my/myPage/
+        - listitem [ref=e14]:
+          - link "ネイル・まつげサロン検索トップ" [ref=e15] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/?gn=on
+      - list [ref=e16]:
+        - listitem [ref=e17]:
+          - link "ヘアサロン" [ref=e18] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/svcSB/
+        - listitem [ref=e19]:
+          - link "ヘアスタイル" [ref=e20] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/catalog/
+        - listitem [ref=e21]:
+          - link "ネイル・まつげサロン" [ref=e22] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/
+        - listitem [ref=e23]:
+          - link "ネイルカタログ" [ref=e24] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail_catalog/
+        - listitem [ref=e25]:
+          - link "リラクサロン" [ref=e26] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/relax/svcSB/
+        - listitem [ref=e27]:
+          - link "エステサロン" [ref=e28] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/esthe/svcSB/
+        - listitem [ref=e29]:
+          - link "美容クリニック" [ref=e30] [cursor=pointer]:
+            - /url: https://clinic.beauty.hotpepper.jp/
+  - generic [ref=e31]:
+    - list [ref=e33]:
+      - listitem [ref=e34]:
+        - link "総合トップ" [ref=e35] [cursor=pointer]:
+          - /url: https://beauty.hotpepper.jp/top/
+        - text: ">"
+      - listitem [ref=e36]:
+        - link "ネイル・まつげサロン検索トップ" [ref=e37] [cursor=pointer]:
+          - /url: https://beauty.hotpepper.jp/nail/
+        - text: ">"
+      - listitem [ref=e38]:
+        - link "ネイル・まつげサロン関西トップ" [ref=e39] [cursor=pointer]:
+          - /url: /nail/svcSB/
+        - text: ">"
+      - listitem [ref=e40]:
+        - link "ネイル・まつげサロン心斎橋・難波・天王寺トップ" [ref=e41] [cursor=pointer]:
+          - /url: /nail/svcSB/macBB/
+        - text: ">"
+      - listitem [ref=e42]:
+        - strong [ref=e43]: ルモワ 天王寺店(Lu more)
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - img "ルモワ 天王寺店(Lu more)のサロンヘッダー" [ref=e50]
+              - img "ルモワ 天王寺店(Lu more)のサロンヘッダー" [ref=e51]
+              - img "ルモワ 天王寺店(Lu more)のサロンヘッダー" [ref=e52]
+            - list [ref=e53]:
+              - listitem [ref=e54]
+              - listitem [ref=e55] [cursor=pointer]
+              - listitem [ref=e56] [cursor=pointer]
+          - generic [ref=e57]:
+            - link "ルモワ 天王寺店(Lu more)のお店ロゴ" [ref=e59] [cursor=pointer]:
+              - /url: https://beauty.hotpepper.jp/kr/slnH000767465/
+              - img "ルモワ 天王寺店(Lu more)のお店ロゴ" [ref=e60]
+            - generic [ref=e61]:
+              - list [ref=e62]:
+                - listitem [ref=e63]:
+                  - link "空席確認・予約する 本日◯空席あり" [ref=e64] [cursor=pointer]:
+                    - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465
+                    - text: 空席確認・予約する
+                    - generic [ref=e65]:
+                      - text: 本日
+                      - generic [ref=e66]: ◯空席あり
+                - listitem [ref=e67]:
+                  - paragraph [ref=e69]:
+                    - link "ブックマークする" [ref=e70] [cursor=pointer]:
+                      - /url: javascript:void(0);
+              - paragraph [ref=e71]:
+                - link "スタッフ募集を見る" [ref=e72] [cursor=pointer]:
+                  - /url: https://work.beauty.hotpepper.jp/WC00014099/WS0000068834/?wak=KPCO100001_rsvButton_salon_kyujin#job-posting
+            - generic [ref=e74]:
+              - paragraph [ref=e75]:
+                - link "【まつげパーマ・マツエク・眉毛専門店/天王寺】Lu more ルモワ 天王寺店" [ref=e76] [cursor=pointer]:
+                  - /url: https://beauty.hotpepper.jp/kr/slnH000767465/
+              - paragraph [ref=e77]: マツゲパーマ マツエク マユゲセンモンテン テンノウジ ルモワ テンノウジテン
+              - list [ref=e78]:
+                - listitem [ref=e79]: まつげ・メイク
+                - listitem [ref=e80]: リラク
+                - listitem [ref=e81]: エステ
+              - generic [ref=e82]:
+                - generic [ref=e83]: スマート支払いOK
+                - link [ref=e84] [cursor=pointer]:
+                  - /url: javascript:void(0);
+              - generic [ref=e85]:
+                - generic [ref=e86]: "4.73"
+                - generic [ref=e88]: （752件）
+                - link [ref=e89] [cursor=pointer]:
+                  - /url: javascript:void(0);
+              - list [ref=e91]:
+                - listitem [ref=e92]: 大阪府大阪市阿倍野区阿倍野筋２－１－２９ 阿倍野ＡＩＴビル５Ｆ
+                - listitem [ref=e93]: 【NEW★OPEN】阿倍野駅1分★まつパ¥2440/メーテル¥3870/フラット¥3890
+          - list [ref=e94]:
+            - listitem [ref=e95]:
+              - link "サロン情報" [ref=e96] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767465/
+                - generic [ref=e97]: サロン情報
+            - listitem [ref=e98]:
+              - link "クーポン メニュー" [ref=e99] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767465/coupon/
+                - generic [ref=e100]:
+                  - text: クーポン
+                  - text: メニュー
+            - listitem [ref=e101]:
+              - link "こだわり" [ref=e102] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767465/kodawari/
+                - generic [ref=e103]: こだわり
+            - listitem [ref=e104]:
+              - link "フォト ギャラリー" [ref=e105] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767465/photo/
+                - generic [ref=e106]:
+                  - text: フォト
+                  - text: ギャラリー
+            - listitem [ref=e107]:
+              - link "スタッフ" [ref=e108] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767465/staff/
+                - generic [ref=e109]: スタッフ
+            - listitem [ref=e110]:
+              - link "ブログ" [ref=e111] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767465/blog/
+                - generic [ref=e112]: ブログ
+            - listitem [ref=e113]:
+              - link "地図" [ref=e114] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767465/map/
+                - generic [ref=e115]: 地図
+            - listitem [ref=e116]:
+              - link "口コミ" [ref=e117] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767465/review/
+                - generic [ref=e118]: 口コミ
+        - generic [ref=e119]:
+          - generic [ref=e120]:
+            - paragraph [ref=e121]:
+              - strong [ref=e123]: 【本日空】5/21迄限定クーポン☆口コミ4.7×リピ率90%×満足度97%☆まつパ¥2440/パリジェンヌ¥3670
+            - generic [ref=e124]:
+              - generic [ref=e125]:
+                - generic [ref=e126]:
+                  - img "ルモワ 天王寺店(Lu more)の写真" [ref=e127]
+                  - img "ルモワ 天王寺店(Lu more)の写真" [ref=e128]
+                  - img "ルモワ 天王寺店(Lu more)の写真" [ref=e129]
+                  - img "ルモワ 天王寺店(Lu more)の写真" [ref=e130]
+                  - img "ルモワ 天王寺店(Lu more)の写真" [ref=e131]
+                  - img "ルモワ 天王寺店(Lu more)の写真" [ref=e132]
+                  - img "ルモワ 天王寺店(Lu more)の写真" [ref=e133]
+                  - img "ルモワ 天王寺店(Lu more)の写真" [ref=e134]
+                  - img "ルモワ 天王寺店(Lu more)の写真" [ref=e135]
+                  - img "ルモワ 天王寺店(Lu more)の写真" [ref=e136]
+                - list [ref=e138]:
+                  - listitem [ref=e139] [cursor=pointer]:
+                    - img "ルモワ 天王寺店(Lu more)の写真" [ref=e140]
+                  - listitem [ref=e141] [cursor=pointer]:
+                    - img "ルモワ 天王寺店(Lu more)の写真" [ref=e142]
+                  - listitem [ref=e143] [cursor=pointer]:
+                    - img "ルモワ 天王寺店(Lu more)の写真" [ref=e144]
+                  - listitem [ref=e145] [cursor=pointer]:
+                    - img "ルモワ 天王寺店(Lu more)の写真" [ref=e146]
+                  - listitem [ref=e147] [cursor=pointer]:
+                    - img "ルモワ 天王寺店(Lu more)の写真" [ref=e148]
+                  - listitem [ref=e149] [cursor=pointer]:
+                    - img "ルモワ 天王寺店(Lu more)の写真" [ref=e150]
+                  - listitem [ref=e151] [cursor=pointer]:
+                    - img "ルモワ 天王寺店(Lu more)の写真" [ref=e152]
+                  - listitem [ref=e153] [cursor=pointer]:
+                    - img "ルモワ 天王寺店(Lu more)の写真" [ref=e154]
+                  - listitem [ref=e155] [cursor=pointer]:
+                    - img "ルモワ 天王寺店(Lu more)の写真" [ref=e156]
+                  - listitem [ref=e157] [cursor=pointer]:
+                    - img "ルモワ 天王寺店(Lu more)の写真" [ref=e158]
+                - link "＜" [ref=e159]:
+                  - /url: javascript:void(0);
+                - link "＞" [ref=e160] [cursor=pointer]:
+                  - /url: javascript:void(0);
+              - generic [ref=e161]:
+                - paragraph [ref=e162]: 《阿倍野駅1分》“自分らしさ”を引き出すLu moreだけのまつげデザイン★トレンドを取り込みながらも、自然な抜け感と上質ボリュームを両立したまつげパーマ＆眉スタイリング。毎朝のメイク時間を6分短縮しつつ、大人の抜け感を演出。★まつげパーマ¥2440/パリジェンヌ¥3670/メーテル¥3870★ルモワ天王寺【天王寺】
+                - paragraph [ref=e164]:
+                  - link "空席確認・予約する" [ref=e165] [cursor=pointer]:
+                    - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465
+          - generic [ref=e166]:
+            - list [ref=e167]:
+              - listitem [ref=e168]:
+                - paragraph [ref=e169]: 初めての方にオススメ
+                - img "ルモワ 天王寺店(Lu more)の写真/【まつげパーマ&パリジェンヌが通いやすい価格で何度でも◎】目元の悩みはLu moreへ★天王寺駅徒歩4分" [ref=e171]
+                - generic [ref=e172]:
+                  - paragraph [ref=e173]: 【まつげパーマ&パリジェンヌが通いやすい価格で何度でも◎】目元の悩みはLu moreへ★天王寺駅徒歩4分
+                  - paragraph [ref=e174]: お目元のどんなお悩みも丁寧なカウンセリングと似合わせ施術で理想を実現☆マツエクができない方にはまつげパーマがオススメ◎SNS話題の束感コーティングでさらに可愛さｕｐ☆[天王寺/まつげパーマ/パリジェンヌ]
+                - generic [ref=e175]:
+                  - table [ref=e176]:
+                    - rowgroup [ref=e177]:
+                      - row "新 規 まつエク その他まつげメニュー ¥2,440 【5月21日まで限定】潤いまつげパーマ ¥3740→【¥2440】[天王寺/阿倍野]" [ref=e178]:
+                        - cell "新 規" [ref=e179]:
+                          - generic [ref=e180]:
+                            - text: 新
+                            - text: 規
+                        - cell "まつエク その他まつげメニュー ¥2,440 【5月21日まで限定】潤いまつげパーマ ¥3740→【¥2440】[天王寺/阿倍野]" [ref=e181]:
+                          - generic [ref=e182]:
+                            - list [ref=e184]:
+                              - listitem [ref=e185]: まつエク
+                              - listitem [ref=e186]: その他まつげメニュー
+                            - paragraph [ref=e187]: ¥2,440
+                          - generic [ref=e188]:
+                            - paragraph [ref=e189]: 【5月21日まで限定】潤いまつげパーマ ¥3740→【¥2440】[天王寺/阿倍野]
+                            - link [ref=e190] [cursor=pointer]:
+                              - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011676211&add=2&addMenu=0&rootCd=10&wak=KPCO100001_link_special_coupon
+                        - cell [ref=e191]:
+                          - paragraph [ref=e193]:
+                            - link [ref=e194] [cursor=pointer]:
+                              - /url: javascript:void(0);
+                  - paragraph [ref=e195]:
+                    - link "おすすめクーポンをもっと見る" [ref=e196] [cursor=pointer]:
+                      - /url: javascript:void(0);
+            - list [ref=e200]:
+              - listitem [ref=e201] [cursor=pointer]:
+                - generic [ref=e202]:
+                  - paragraph [ref=e203]:
+                    - img "ルモワ 天王寺店(Lu more)の写真/【まつげパーマ&パリジェンヌが通いやすい価格で何度でも◎】目元の悩みはLu moreへ★天王寺駅徒歩4分" [ref=e204]
+                  - generic [ref=e205]:
+                    - paragraph [ref=e206]:
+                      - text: 初めての方にオススメ
+                      - generic [ref=e207]: クーポン
+                    - paragraph [ref=e208]: 【まつげパーマ&パリジェンヌが通いやすい価格で何度でも◎】目元の悩みはLu moreへ★天王寺駅徒歩4分
+              - listitem [ref=e209] [cursor=pointer]:
+                - generic [ref=e210]:
+                  - paragraph [ref=e211]:
+                    - img "ルモワ 天王寺店(Lu more)の写真/[天王寺]平行＆ナチュラル眉など、あなたの理想の眉を叶えます☆眉毛専門店の【Lu more】にお任せを♪" [ref=e212]
+                  - generic [ref=e213]:
+                    - paragraph [ref=e214]:
+                      - text: アイブロウメニューがあるサロン
+                      - generic [ref=e215]: クーポン
+                    - paragraph [ref=e216]: "[天王寺]平行＆ナチュラル眉など、あなたの理想の眉を叶えます☆眉毛専門店の【Lu more】にお任せを♪"
+              - listitem [ref=e217] [cursor=pointer]:
+                - generic [ref=e218]:
+                  - paragraph [ref=e219]:
+                    - img "ルモワ 天王寺店(Lu more)の写真/[天王寺]＼フラットラッシュ＆LEDマツエク取扱店☆／濃さ×軽量×モチの良さにも自信あり！" [ref=e220]
+                  - generic [ref=e221]:
+                    - paragraph [ref=e222]:
+                      - text: キープ力が自慢のサロン
+                      - generic [ref=e223]: クーポン
+                    - paragraph [ref=e224]: "[天王寺]＼フラットラッシュ＆LEDマツエク取扱店☆／濃さ×軽量×モチの良さにも自信あり！"
+              - listitem [ref=e225] [cursor=pointer]:
+                - generic [ref=e226]:
+                  - paragraph [ref=e227]:
+                    - img "ルモワ 天王寺店(Lu more)の写真/[天王寺]《好印象な目元はナチュラル綺麗がマスト☆》まつげパーマ専門店で感動の仕上がりをご提供☆" [ref=e228]
+                  - generic [ref=e229]:
+                    - paragraph [ref=e230]:
+                      - text: ナチュラル上品な目元にしたい
+                      - generic [ref=e231]: クーポン
+                    - paragraph [ref=e232]: "[天王寺]《好印象な目元はナチュラル綺麗がマスト☆》まつげパーマ専門店で感動の仕上がりをご提供☆"
+              - listitem [ref=e233] [cursor=pointer]:
+                - generic [ref=e234]:
+                  - paragraph [ref=e235]:
+                    - img "ルモワ 天王寺店(Lu more)の写真/[天王寺]＼大人気マツエク専門店／高い技術力と種類豊富なマツエクが人気の秘密♪理想の目元を実現します◎" [ref=e236]
+                  - generic [ref=e237]:
+                    - paragraph [ref=e238]:
+                      - text: エクステの種類が豊富
+                      - generic [ref=e239]: クーポン
+                    - paragraph [ref=e240]: "[天王寺]＼大人気マツエク専門店／高い技術力と種類豊富なマツエクが人気の秘密♪理想の目元を実現します◎"
+              - listitem [ref=e241] [cursor=pointer]:
+                - generic [ref=e242]:
+                  - paragraph [ref=e243]:
+                    - img "ルモワ 天王寺店(Lu more)の写真/[天王寺]コスパ最強モチ抜群♪まつげパーマ・マツエク専門店【Lu more】でアイライン不要な目元をご提供★" [ref=e244]
+                  - generic [ref=e245]:
+                    - paragraph [ref=e246]:
+                      - text: ボリュームのある目元にしたい
+                      - generic [ref=e247]: クーポン
+                    - paragraph [ref=e248]: "[天王寺]コスパ最強モチ抜群♪まつげパーマ・マツエク専門店【Lu more】でアイライン不要な目元をご提供★"
+              - listitem [ref=e249] [cursor=pointer]:
+                - generic [ref=e250]:
+                  - paragraph [ref=e251]:
+                    - img "ルモワ 天王寺店(Lu more)の写真/[天王寺]【デザイン力に感動☆】目元の可愛さ２倍!ダメージレスまつげパーマで自信を持てるモテ可愛eyeに★" [ref=e252]
+                  - generic [ref=e253]:
+                    - paragraph [ref=e254]:
+                      - text: モテ可愛な目元にしたい
+                      - generic [ref=e255]: クーポン
+                    - paragraph [ref=e256]: "[天王寺]【デザイン力に感動☆】目元の可愛さ２倍!ダメージレスまつげパーマで自信を持てるモテ可愛eyeに★"
+              - listitem [ref=e257] [cursor=pointer]:
+                - generic [ref=e258]:
+                  - paragraph [ref=e259]:
+                    - img "ルモワ 天王寺店(Lu more)の写真/[天王寺]《働く女性にも大人気◎》落ち着いた空間でゆったりと心地よく施術を受けたい方にオススメ♪" [ref=e260]
+                  - generic [ref=e261]:
+                    - paragraph [ref=e262]:
+                      - text: 大人女性向けこだわりサロン
+                      - generic [ref=e263]: クーポン
+                    - paragraph [ref=e264]: "[天王寺]《働く女性にも大人気◎》落ち着いた空間でゆったりと心地よく施術を受けたい方にオススメ♪"
+              - listitem [ref=e265] [cursor=pointer]:
+                - generic [ref=e266]:
+                  - paragraph [ref=e267]:
+                    - img "ルモワ 天王寺店(Lu more)の写真/[天王寺]【ご提案力ならLu moreへ☆】似合うエクステが分からない…そんな方は一度お気軽にご相談を♪" [ref=e268]
+                  - generic [ref=e269]:
+                    - paragraph [ref=e270]:
+                      - text: 目の形にあったエクステ提案が得意
+                      - generic [ref=e271]: クーポン
+                    - paragraph [ref=e272]: "[天王寺]【ご提案力ならLu moreへ☆】似合うエクステが分からない…そんな方は一度お気軽にご相談を♪"
+              - listitem [ref=e273] [cursor=pointer]:
+                - generic [ref=e274]:
+                  - paragraph [ref=e275]:
+                    - img "ルモワ 天王寺店(Lu more)の写真/[天王寺]特別な日もLu moreにお任せ♪あなたの魅力を最大限に引出した心ときめく仕上がりをご体験下さい★" [ref=e276]
+                  - generic [ref=e277]:
+                    - paragraph [ref=e278]:
+                      - text: 特別な日に合う華やかな目元にしたい
+                      - generic [ref=e279]: クーポン
+                    - paragraph [ref=e280]: "[天王寺]特別な日もLu moreにお任せ♪あなたの魅力を最大限に引出した心ときめく仕上がりをご体験下さい★"
+        - heading "ルモワ 天王寺店(Lu more)のこだわり" [level=2] [ref=e282]
+        - generic [ref=e283]:
+          - generic [ref=e284]:
+            - link "お客様の疑問に徹底回答！ルモワが技術にこだわる理由とは？" [ref=e286] [cursor=pointer]:
+              - /url: https://beauty.hotpepper.jp/kr/slnH000767465/kodawari/?wak=KPCO100001_link_kodawari
+              - img "お客様の疑問に徹底回答！ルモワが技術にこだわる理由とは？" [ref=e287]
+            - generic [ref=e288]:
+              - paragraph [ref=e289]:
+                - generic [ref=e290]: お客様の疑問に徹底回答！ルモワが技術にこだわる理由とは？
+              - paragraph [ref=e291]: 当店は持続力の高い施術と丁寧な提案を大切にしています。メニューの違いについてよくわからない・・・そんなお客様からよくご質問いただくご質問（Q&A）にお答えします★
+            - paragraph [ref=e292]:
+              - link "詳細を見る" [ref=e293] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767465/kodawari/?wak=KPCO100001_link_kodawari
+          - generic [ref=e294]:
+            - link "Lu moreのトレンド×似合わせの人気メニューをご紹介♪" [ref=e296] [cursor=pointer]:
+              - /url: https://beauty.hotpepper.jp/kr/slnH000767465/kodawari/2/?wak=KPCO100001_link_kodawari
+              - img "Lu moreのトレンド×似合わせの人気メニューをご紹介♪" [ref=e297]
+            - generic [ref=e298]:
+              - paragraph [ref=e299]:
+                - generic [ref=e300]: Lu moreのトレンド×似合わせの人気メニューをご紹介♪
+              - paragraph [ref=e301]: お客様のニーズに柔軟にお応えできるよう、トレンドから定番まで幅広いメニューをご用意しております♪Lu moreではお一人おひとりのお悩みや理想に寄り添い、丁寧なカウンセリングと分かりやすいご提案で似合わせデザインをご提案★持続力の高い施術で、美しい仕上がりが長く続くお目元づくりをサポートいたします☆
+            - paragraph [ref=e302]:
+              - link "詳細を見る" [ref=e303] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767465/kodawari/2/?wak=KPCO100001_link_kodawari
+        - heading "ルモワ 天王寺店(Lu more)からの一言" [level=2] [ref=e305]
+        - generic [ref=e306]:
+          - img "ルモワ 天王寺店(Lu more)/Lu more 天王寺店からご挨拶" [ref=e309]
+          - generic [ref=e310]:
+            - paragraph [ref=e311]: Lu more 天王寺店からご挨拶
+            - paragraph [ref=e312]: 天王寺のまつげパーマ/マツエク/眉毛専門店
+            - paragraph [ref=e313]: Lu more天王寺店は、自分らしさを最大限に引き出すワンランク上の抜け感まつげパーマ＆パリジェンヌ、骨格似合わせ眉スタイリング、軽いつけ心地のフラットラッシュをプチプラで提供。ここでしか味わえないトレンド感あふれる空間で、毎朝6分短縮＆SNS映え目元を手に入れましょう！忙しいライフスタイルに寄り添います。【天王寺駅/阿倍野駅/まつげパーマ/まつパ/マツエク】
+          - paragraph [ref=e315]:
+            - link "空席確認・予約する" [ref=e316] [cursor=pointer]:
+              - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465
+        - generic [ref=e317]:
+          - heading "ルモワ 天王寺店(Lu more)の雰囲気・メニューなど" [level=2] [ref=e319]
+          - list [ref=e321]:
+            - listitem [ref=e322]:
+              - img "ルモワ 天王寺店(Lu more)の雰囲気（Lumore天王寺の丁寧な似合せカウンセリングでなりたいを叶えます）" [ref=e324]
+              - paragraph [ref=e325]: Lumore天王寺の丁寧な似合せカウンセリングでなりたいを叶えます
+            - listitem [ref=e326]:
+              - img "ルモワ 天王寺店(Lu more)の雰囲気（メーテルやパリジェンヌが得意な専門サロンです♪［天王寺］）" [ref=e328]
+              - paragraph [ref=e329]: メーテルやパリジェンヌが得意な専門サロンです♪［天王寺］
+            - listitem [ref=e330]:
+              - img "ルモワ 天王寺店(Lu more)の雰囲気（大人気フラットラッシュ/LED取扱店★簡単垢抜け［天王寺］）" [ref=e332]
+              - paragraph [ref=e333]: 大人気フラットラッシュ/LED取扱店★簡単垢抜け［天王寺］
+        - generic [ref=e334]:
+          - heading "サロンの利用傾向" [level=2] [ref=e336]
+          - generic [ref=e337]:
+            - heading "平均予約金額" [level=3] [ref=e338]
+            - table [ref=e339]:
+              - rowgroup [ref=e340]:
+                - row "初来店 ¥3,000～¥3,999" [ref=e341]:
+                  - rowheader "初来店" [ref=e342]
+                  - cell "¥3,000～¥3,999" [ref=e343]
+                - row "2回目以降来店 ¥4,000～¥4,999" [ref=e344]:
+                  - rowheader "2回目以降来店" [ref=e345]
+                  - cell "¥4,000～¥4,999" [ref=e346]
+            - list [ref=e347]:
+              - listitem [ref=e348]: ※平均予約金額は、直近1年間のHOT PEPPER Beauty経由のネット予約時データをもとに集計しています。
+              - listitem [ref=e349]: ※回数券購入分を含みます。
+              - listitem [ref=e350]: ※予約合計金額が0円の場合は集計対象外です。
+          - generic [ref=e351]:
+            - heading "人気のクーポン" [level=3] [ref=e352]
+            - list [ref=e353]:
+              - listitem [ref=e354]:
+                - link "すべて" [ref=e355] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e356]:
+                - link "初来店の方" [ref=e357] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e358]:
+                - link "2回目以降来店の方" [ref=e359] [cursor=pointer]:
+                  - /url: "#"
+            - generic [ref=e361]:
+              - term [ref=e362]: 新規
+              - definition [ref=e363]: サロンに初来店の方
+              - term [ref=e364]: 再来
+              - definition [ref=e365]: サロンに2回目以降にご来店の方
+              - term [ref=e366]: 全員
+              - definition [ref=e367]: サロンにご来店の全員の方
+            - list [ref=e368]:
+              - listitem [ref=e369]:
+                - table "summary" [ref=e370]:
+                  - rowgroup [ref=e371]:
+                    - row "新 規 まつエク その他まつげメニュー ¥2,440 【5月21日まで限定】潤いまつげパーマ ¥3740→【¥2440】[天王寺/阿倍野] 提示条件： 予約時＆入店時 利用条件： ご新規様/5月21日までのご来店限定 このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e372]:
+                      - cell "新 規" [ref=e373]:
+                        - text: 新
+                        - text: 規
+                      - cell "まつエク その他まつげメニュー ¥2,440 【5月21日まで限定】潤いまつげパーマ ¥3740→【¥2440】[天王寺/阿倍野] 提示条件： 予約時＆入店時 利用条件： ご新規様/5月21日までのご来店限定" [ref=e374]:
+                        - generic [ref=e375]:
+                          - generic [ref=e376]:
+                            - list [ref=e378]:
+                              - listitem [ref=e379]: まつエク
+                              - listitem [ref=e380]: その他まつげメニュー
+                            - paragraph [ref=e381]: ¥2,440
+                          - paragraph [ref=e383]: 【5月21日まで限定】潤いまつげパーマ ¥3740→【¥2440】[天王寺/阿倍野]
+                        - generic [ref=e384]:
+                          - term [ref=e385]: 提示条件：
+                          - definition [ref=e386]: 予約時＆入店時
+                          - term [ref=e387]: 利用条件：
+                          - definition [ref=e388]: ご新規様/5月21日までのご来店限定
+                      - cell "このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e389]:
+                        - generic [ref=e390]:
+                          - link "このクーポンで 空席確認・予約する" [ref=e392] [cursor=pointer]:
+                            - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011676211&add=2
+                            - text: このクーポンで
+                            - text: 空席確認・予約する
+                          - link "メニューを追加して予約" [ref=e394] [cursor=pointer]:
+                            - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011676211&add=1
+                          - paragraph [ref=e395]:
+                            - link "ブックマークする" [ref=e396] [cursor=pointer]:
+                              - /url: javascript:void(0);
+                - table "summary" [ref=e397]:
+                  - rowgroup [ref=e398]:
+                    - row "再 来 まつエク その他まつげメニュー ¥3,553 【次回予約★5％オフ】まつげパーマ ¥3740→【¥3553】[天王寺/阿倍野] 提示条件： 予約時 利用条件： ご来店時にその場で次回予約された方のみ☆ このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e399]:
+                      - cell "再 来" [ref=e400]:
+                        - text: 再
+                        - text: 来
+                      - cell "まつエク その他まつげメニュー ¥3,553 【次回予約★5％オフ】まつげパーマ ¥3740→【¥3553】[天王寺/阿倍野] 提示条件： 予約時 利用条件： ご来店時にその場で次回予約された方のみ☆" [ref=e401]:
+                        - generic [ref=e402]:
+                          - generic [ref=e403]:
+                            - list [ref=e405]:
+                              - listitem [ref=e406]: まつエク
+                              - listitem [ref=e407]: その他まつげメニュー
+                            - paragraph [ref=e408]: ¥3,553
+                          - paragraph [ref=e410]: 【次回予約★5％オフ】まつげパーマ ¥3740→【¥3553】[天王寺/阿倍野]
+                        - generic [ref=e411]:
+                          - term [ref=e412]: 提示条件：
+                          - definition [ref=e413]: 予約時
+                          - term [ref=e414]: 利用条件：
+                          - definition [ref=e415]: ご来店時にその場で次回予約された方のみ☆
+                      - cell "このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e416]:
+                        - generic [ref=e417]:
+                          - link "このクーポンで 空席確認・予約する" [ref=e419] [cursor=pointer]:
+                            - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011540999&add=2
+                            - text: このクーポンで
+                            - text: 空席確認・予約する
+                          - link "メニューを追加して予約" [ref=e421] [cursor=pointer]:
+                            - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011540999&add=1
+                          - paragraph [ref=e422]:
+                            - link "ブックマークする" [ref=e423] [cursor=pointer]:
+                              - /url: javascript:void(0);
+                - table "summary" [ref=e424]:
+                  - rowgroup [ref=e425]:
+                    - row "再 来 まつエク その他まつげメニュー ¥4,959 【次回予約★5％オフ】韓国風まつげパーマ【¥4959】[天王寺/阿倍野] 提示条件： 予約時 利用条件： ご来店時にその場で次回予約された方のみ☆ このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e426]:
+                      - cell "再 来" [ref=e427]:
+                        - text: 再
+                        - text: 来
+                      - cell "まつエク その他まつげメニュー ¥4,959 【次回予約★5％オフ】韓国風まつげパーマ【¥4959】[天王寺/阿倍野] 提示条件： 予約時 利用条件： ご来店時にその場で次回予約された方のみ☆" [ref=e428]:
+                        - generic [ref=e429]:
+                          - generic [ref=e430]:
+                            - list [ref=e432]:
+                              - listitem [ref=e433]: まつエク
+                              - listitem [ref=e434]: その他まつげメニュー
+                            - paragraph [ref=e435]: ¥4,959
+                          - paragraph [ref=e437]: 【次回予約★5％オフ】韓国風まつげパーマ【¥4959】[天王寺/阿倍野]
+                        - generic [ref=e438]:
+                          - term [ref=e439]: 提示条件：
+                          - definition [ref=e440]: 予約時
+                          - term [ref=e441]: 利用条件：
+                          - definition [ref=e442]: ご来店時にその場で次回予約された方のみ☆
+                      - cell "このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e443]:
+                        - generic [ref=e444]:
+                          - link "このクーポンで 空席確認・予約する" [ref=e446] [cursor=pointer]:
+                            - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011541007&add=2
+                            - text: このクーポンで
+                            - text: 空席確認・予約する
+                          - link "メニューを追加して予約" [ref=e448] [cursor=pointer]:
+                            - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011541007&add=1
+                          - paragraph [ref=e449]:
+                            - link "ブックマークする" [ref=e450] [cursor=pointer]:
+                              - /url: javascript:void(0);
+            - paragraph [ref=e451]: ※人気のクーポンは、直近1カ月間のネット予約データをもとに集計しています。
+          - generic [ref=e452]:
+            - heading "予約比率" [level=3] [ref=e453]
+            - generic [ref=e454]:
+              - generic [ref=e455]:
+                - heading "性別比率" [level=4] [ref=e456]
+                - list [ref=e462]:
+                  - listitem [ref=e463]:
+                    - generic [ref=e464]:
+                      - term [ref=e465]: 女性
+                      - definition [ref=e466]: 100%
+                  - listitem [ref=e467]:
+                    - generic [ref=e468]:
+                      - term [ref=e469]: 男性
+                      - definition [ref=e470]: 0%
+                  - listitem [ref=e471]:
+                    - generic [ref=e472]:
+                      - term [ref=e473]: 未設定・その他
+                      - definition [ref=e474]: 0%
+              - generic [ref=e475]:
+                - heading "年代比率" [level=4] [ref=e476]
+                - generic [ref=e477]:
+                  - list [ref=e478]:
+                    - listitem [ref=e479]:
+                      - link "女性" [ref=e480] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=e481]:
+                      - link "男性" [ref=e482] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=e483]:
+                      - link "未設定・その他" [ref=e484] [cursor=pointer]:
+                        - /url: "#"
+                  - list [ref=e487]:
+                    - listitem [ref=e488]:
+                      - list [ref=e489]:
+                        - listitem [ref=e490]:
+                          - generic [ref=e491]: 〜10代
+                          - generic [ref=e494]: 8%
+                        - listitem [ref=e495]:
+                          - generic [ref=e496]: 20代
+                          - generic [ref=e499]: 51%
+                        - listitem [ref=e500]:
+                          - generic [ref=e501]: 30代
+                          - generic [ref=e504]: 22%
+                        - listitem [ref=e505]:
+                          - generic [ref=e506]: 40代
+                          - generic [ref=e509]: 11%
+                        - listitem [ref=e510]:
+                          - generic [ref=e511]: 50代〜
+                          - generic [ref=e514]: 7%
+            - generic [ref=e515]:
+              - paragraph [ref=e516]: ※サロンの利用傾向は、直近3カ月間のHOT PEPPER Beauty経由のネット予約データをもとに集計しています。
+              - paragraph [ref=e517]: ※「未設定・その他」は、会員情報の性別欄で「回答しない」「自由記載」を選択された方のデータを集計しています。
+        - generic [ref=e518]:
+          - heading "ルモワ 天王寺店(Lu more)のPICK UPスタッフ" [level=2] [ref=e520]
+          - table [ref=e522]:
+            - rowgroup [ref=e523]:
+              - row "ルモワ 天王寺店(Lu more) 天王寺店◎ キタムラ 天王寺店◎ キタムラ テンノウジ キタムラ アイデザイナー（歴） 指名料＋550円 指名して予約する ルモワ 天王寺店(Lu more) 天王寺店★ ヤスハラ 天王寺店★ ヤスハラ テンノウジテン ヤスハラ アイデザイナー（歴） 指名料550円 指名して予約する" [ref=e524]:
+                - cell "ルモワ 天王寺店(Lu more) 天王寺店◎ キタムラ 天王寺店◎ キタムラ テンノウジ キタムラ アイデザイナー（歴） 指名料＋550円 指名して予約する" [ref=e525]:
+                  - generic [ref=e526]:
+                    - link "ルモワ 天王寺店(Lu more) 天王寺店◎ キタムラ" [ref=e528] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/kr/slnH000767465/staff/W001298832/
+                      - img "ルモワ 天王寺店(Lu more) 天王寺店◎ キタムラ" [ref=e529]
+                    - generic [ref=e530]:
+                      - paragraph [ref=e531]:
+                        - link "天王寺店◎ キタムラ" [ref=e532] [cursor=pointer]:
+                          - /url: https://beauty.hotpepper.jp/kr/slnH000767465/staff/W001298832/
+                      - paragraph [ref=e533]: テンノウジ キタムラ
+                    - generic [ref=e534]: アイデザイナー（歴）
+                    - generic [ref=e535]: 指名料＋550円
+                  - link "指名して予約する" [ref=e538] [cursor=pointer]:
+                    - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&staffId=W001298832
+                    - generic [ref=e540]: 指名して予約する
+                - cell "ルモワ 天王寺店(Lu more) 天王寺店★ ヤスハラ 天王寺店★ ヤスハラ テンノウジテン ヤスハラ アイデザイナー（歴） 指名料550円 指名して予約する" [ref=e541]:
+                  - generic [ref=e542]:
+                    - link "ルモワ 天王寺店(Lu more) 天王寺店★ ヤスハラ" [ref=e544] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/kr/slnH000767465/staff/W001321190/
+                      - img "ルモワ 天王寺店(Lu more) 天王寺店★ ヤスハラ" [ref=e545]
+                    - generic [ref=e546]:
+                      - paragraph [ref=e547]:
+                        - link "天王寺店★ ヤスハラ" [ref=e548] [cursor=pointer]:
+                          - /url: https://beauty.hotpepper.jp/kr/slnH000767465/staff/W001321190/
+                      - paragraph [ref=e549]: テンノウジテン ヤスハラ
+                    - generic [ref=e550]: アイデザイナー（歴）
+                    - generic [ref=e551]: 指名料550円
+                  - link "指名して予約する" [ref=e554] [cursor=pointer]:
+                    - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&staffId=W001321190
+                    - generic [ref=e556]: 指名して予約する
+                - cell [ref=e557]
+          - paragraph [ref=e559]:
+            - link "このサロンのすべてのスタッフを見る" [ref=e560] [cursor=pointer]:
+              - /url: https://beauty.hotpepper.jp/kr/slnH000767465/staff/
+        - generic [ref=e561]:
+          - heading "ルモワ 天王寺店(Lu more)のサロンデータ" [level=2] [ref=e563]
+          - table [ref=e564]:
+            - rowgroup [ref=e565]:
+              - row "電話番号 番号を表示" [ref=e566]:
+                - rowheader "電話番号" [ref=e567]
+                - cell "番号を表示" [ref=e568]:
+                  - link "番号を表示" [ref=e569] [cursor=pointer]:
+                    - /url: https://beauty.hotpepper.jp/kr/slnH000767465/tel/
+              - row "住所 大阪府大阪市阿倍野区阿倍野筋２－１－２９ 阿倍野ＡＩＴビル５Ｆ" [ref=e570]:
+                - rowheader "住所" [ref=e571]
+                - cell "大阪府大阪市阿倍野区阿倍野筋２－１－２９ 阿倍野ＡＩＴビル５Ｆ" [ref=e572]
+              - row "アクセス・道案内 【1】阿部野駅の1番出口を出て、洋服の青山さん方向へ進んでください。【2】ファミリーマートさんが1Fに入っている「阿倍野ＡＩＴビル」の５Fが当店です☆阿倍野/阿倍野駅/まつげパーマ/パリジェンヌ/アイブロウ/眉毛ワックス/眉毛/フラットラッシュ/パリエク/LED/フラットラッシュ/マツパ/まつパ/まつエク/エクステ/マツエク/ワンホン/ハリウッドブロウ/上下/韓国" [ref=e573]:
+                - rowheader "アクセス・道案内" [ref=e574]
+                - cell "【1】阿部野駅の1番出口を出て、洋服の青山さん方向へ進んでください。【2】ファミリーマートさんが1Fに入っている「阿倍野ＡＩＴビル」の５Fが当店です☆阿倍野/阿倍野駅/まつげパーマ/パリジェンヌ/アイブロウ/眉毛ワックス/眉毛/フラットラッシュ/パリエク/LED/フラットラッシュ/マツパ/まつパ/まつエク/エクステ/マツエク/ワンホン/ハリウッドブロウ/上下/韓国" [ref=e575]
+              - row "営業時間 9:00～20:30 まつげパーマ/マツエク/パリジェンヌ/眉毛/フラットラッシュ/パリエク/バインドロック/LED/マツパ/まつパ/ハリウッドブロウ/パリエク/マスカラパーマ/まつエク/ワンホン/ルモワ天王寺" [ref=e576]:
+                - rowheader "営業時間" [ref=e577]
+                - cell "9:00～20:30 まつげパーマ/マツエク/パリジェンヌ/眉毛/フラットラッシュ/パリエク/バインドロック/LED/マツパ/まつパ/ハリウッドブロウ/パリエク/マスカラパーマ/まつエク/ワンホン/ルモワ天王寺" [ref=e578]
+              - row "定休日 年末年始のみ まつげパーマ/パリジェンヌ/眉毛ワックス/パリエク/マツエク/上下/LED/天王寺/ルモワ天王寺" [ref=e579]:
+                - rowheader "定休日" [ref=e580]
+                - cell "年末年始のみ まつげパーマ/パリジェンヌ/眉毛ワックス/パリエク/マツエク/上下/LED/天王寺/ルモワ天王寺" [ref=e581]
+              - row "支払い方法 Visa／Mastercard／JCB／American Express／Diners Club／お会計は完全キャッシュレスとなっており、現金でのお支払いができかねます。 ※店頭で利用可能なお支払い方法を記載しています。スマート支払いではご利用いただけない場合がございます。" [ref=e582]:
+                - rowheader "支払い方法" [ref=e583]
+                - cell "Visa／Mastercard／JCB／American Express／Diners Club／お会計は完全キャッシュレスとなっており、現金でのお支払いができかねます。 ※店頭で利用可能なお支払い方法を記載しています。スマート支払いではご利用いただけない場合がございます。" [ref=e584]:
+                  - text: Visa／Mastercard／JCB／American Express／Diners Club／お会計は完全キャッシュレスとなっており、現金でのお支払いができかねます。
+                  - paragraph [ref=e585]: ※店頭で利用可能なお支払い方法を記載しています。スマート支払いではご利用いただけない場合がございます。
+              - row "設備 総数4(リクライニングチェア4)" [ref=e586]:
+                - rowheader "設備" [ref=e587]
+                - cell "総数4(リクライニングチェア4)" [ref=e588]
+              - row "スタッフ数 総数4人(施術者（まつげ）4人)" [ref=e589]:
+                - rowheader "スタッフ数" [ref=e590]
+                - cell "総数4人(施術者（まつげ）4人)" [ref=e591]
+              - row "駐車場 阿倍野/まつげパーマ/パリジェンヌ/眉毛" [ref=e592]:
+                - rowheader "駐車場" [ref=e593]
+                - cell "阿倍野/まつげパーマ/パリジェンヌ/眉毛" [ref=e594]
+              - row "こだわり条件 夜20時以降も受付OK／当日受付OK／2名以上の利用OK／女性専用／駅から徒歩5分以内／2回目以降特典あり／店頭でのカード支払いOK／朝10時前でも受付OK／女性スタッフ在籍／完全予約制／指名予約OK／リクライニングチェア（ベッド）／メイクルームあり／都度払いメニューあり／ブライダルメニューあり／COIN+支払いOK" [ref=e595]:
+                - rowheader "こだわり条件" [ref=e596]
+                - cell "夜20時以降も受付OK／当日受付OK／2名以上の利用OK／女性専用／駅から徒歩5分以内／2回目以降特典あり／店頭でのカード支払いOK／朝10時前でも受付OK／女性スタッフ在籍／完全予約制／指名予約OK／リクライニングチェア（ベッド）／メイクルームあり／都度払いメニューあり／ブライダルメニューあり／COIN+支払いOK" [ref=e597]
+              - row "備考 まつげパーマ/マツエク/パリジェンヌ/眉毛/フラットラッシュ/パリエク/バインドロック/LED/マツパ/韓国/ハリウッドブロウリフト/パリエク/マスカラパーマ/まつエク/ワンホン/アンドヘルシー/LEDフラットラッシュ" [ref=e598]:
+                - rowheader "備考" [ref=e599]
+                - cell "まつげパーマ/マツエク/パリジェンヌ/眉毛/フラットラッシュ/パリエク/バインドロック/LED/マツパ/韓国/ハリウッドブロウリフト/パリエク/マスカラパーマ/まつエク/ワンホン/アンドヘルシー/LEDフラットラッシュ" [ref=e600]
+              - row "その他 スマート支払いOK、ポイント利用OK、即時予約OK" [ref=e601]:
+                - rowheader "その他" [ref=e602]
+                - cell "スマート支払いOK、ポイント利用OK、即時予約OK" [ref=e603]
+              - row "スタッフ募集 https://work.beauty.hotpepper.jp/WC00014099/WS0000068834/" [ref=e604]:
+                - rowheader "スタッフ募集" [ref=e605]
+                - cell "https://work.beauty.hotpepper.jp/WC00014099/WS0000068834/" [ref=e606]:
+                  - link "https://work.beauty.hotpepper.jp/WC00014099/WS0000068834/" [ref=e607] [cursor=pointer]:
+                    - /url: https://work.beauty.hotpepper.jp/WC00014099/WS0000068834/?wak=KPCO100001_button_salon_kyujin#job-posting
+        - generic [ref=e608]:
+          - heading "ルモワ 天王寺店(Lu more)のクーポン" [level=2] [ref=e610]
+          - generic [ref=e612]:
+            - term [ref=e613]: 新規
+            - definition [ref=e614]: サロンに初来店の方
+            - term [ref=e615]: 再来
+            - definition [ref=e616]: サロンに2回目以降にご来店の方
+            - term [ref=e617]: 全員
+            - definition [ref=e618]: サロンにご来店の全員の方
+          - table "summary" [ref=e620]:
+            - rowgroup [ref=e621]:
+              - row "新 規 まつエク その他まつげメニュー ¥2,440 【5月21日まで限定】潤いまつげパーマ ¥3740→【¥2440】[天王寺/阿倍野] 提示条件： 予約時＆入店時 利用条件： ご新規様/5月21日までのご来店限定 このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e622]:
+                - cell "新 規" [ref=e623]:
+                  - text: 新
+                  - text: 規
+                - cell "まつエク その他まつげメニュー ¥2,440 【5月21日まで限定】潤いまつげパーマ ¥3740→【¥2440】[天王寺/阿倍野] 提示条件： 予約時＆入店時 利用条件： ご新規様/5月21日までのご来店限定" [ref=e624]:
+                  - generic [ref=e625]:
+                    - generic [ref=e626]:
+                      - list [ref=e628]:
+                        - listitem [ref=e629]: まつエク
+                        - listitem [ref=e630]: その他まつげメニュー
+                      - paragraph [ref=e631]: ¥2,440
+                    - paragraph [ref=e633]: 【5月21日まで限定】潤いまつげパーマ ¥3740→【¥2440】[天王寺/阿倍野]
+                  - generic [ref=e634]:
+                    - term [ref=e635]: 提示条件：
+                    - definition [ref=e636]: 予約時＆入店時
+                    - term [ref=e637]: 利用条件：
+                    - definition [ref=e638]: ご新規様/5月21日までのご来店限定
+                - cell "このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e639]:
+                  - generic [ref=e640]:
+                    - link "このクーポンで 空席確認・予約する" [ref=e642] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011676211&add=2
+                      - text: このクーポンで
+                      - text: 空席確認・予約する
+                    - link "メニューを追加して予約" [ref=e644] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011676211&add=1
+                    - paragraph [ref=e645]:
+                      - link "ブックマークする" [ref=e646] [cursor=pointer]:
+                        - /url: javascript:void(0);
+          - table "summary" [ref=e648]:
+            - rowgroup [ref=e649]:
+              - row "新 規 まつエク その他まつげメニュー ¥3,670 【5月21日まで限定】パリジェンヌラッシュリフト ¥4870→【¥3670】 提示条件： 予約時＆入店時 利用条件： ご新規様/5月21日までのご来店限定 このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e650]:
+                - cell "新 規" [ref=e651]:
+                  - text: 新
+                  - text: 規
+                - cell "まつエク その他まつげメニュー ¥3,670 【5月21日まで限定】パリジェンヌラッシュリフト ¥4870→【¥3670】 提示条件： 予約時＆入店時 利用条件： ご新規様/5月21日までのご来店限定" [ref=e652]:
+                  - generic [ref=e653]:
+                    - generic [ref=e654]:
+                      - list [ref=e656]:
+                        - listitem [ref=e657]: まつエク
+                        - listitem [ref=e658]: その他まつげメニュー
+                      - paragraph [ref=e659]: ¥3,670
+                    - paragraph [ref=e661]: 【5月21日まで限定】パリジェンヌラッシュリフト ¥4870→【¥3670】
+                  - generic [ref=e662]:
+                    - term [ref=e663]: 提示条件：
+                    - definition [ref=e664]: 予約時＆入店時
+                    - term [ref=e665]: 利用条件：
+                    - definition [ref=e666]: ご新規様/5月21日までのご来店限定
+                - cell "このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e667]:
+                  - generic [ref=e668]:
+                    - link "このクーポンで 空席確認・予約する" [ref=e670] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011676215&add=2
+                      - text: このクーポンで
+                      - text: 空席確認・予約する
+                    - link "メニューを追加して予約" [ref=e672] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011676215&add=1
+                    - paragraph [ref=e673]:
+                      - link "ブックマークする" [ref=e674] [cursor=pointer]:
+                        - /url: javascript:void(0);
+          - table "summary" [ref=e676]:
+            - rowgroup [ref=e677]:
+              - row "新 規 まつエク その他まつげメニュー ¥3,920 【5月21日まで限定】韓国風★束感まつげパーマ ¥5220→【¥3920】 提示条件： 予約時＆入店時 利用条件： ご新規様/5月21日までのご来店限定 このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e678]:
+                - cell "新 規" [ref=e679]:
+                  - text: 新
+                  - text: 規
+                - cell "まつエク その他まつげメニュー ¥3,920 【5月21日まで限定】韓国風★束感まつげパーマ ¥5220→【¥3920】 提示条件： 予約時＆入店時 利用条件： ご新規様/5月21日までのご来店限定" [ref=e680]:
+                  - generic [ref=e681]:
+                    - generic [ref=e682]:
+                      - list [ref=e684]:
+                        - listitem [ref=e685]: まつエク
+                        - listitem [ref=e686]: その他まつげメニュー
+                      - paragraph [ref=e687]: ¥3,920
+                    - paragraph [ref=e689]: 【5月21日まで限定】韓国風★束感まつげパーマ ¥5220→【¥3920】
+                  - generic [ref=e690]:
+                    - term [ref=e691]: 提示条件：
+                    - definition [ref=e692]: 予約時＆入店時
+                    - term [ref=e693]: 利用条件：
+                    - definition [ref=e694]: ご新規様/5月21日までのご来店限定
+                - cell "このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e695]:
+                  - generic [ref=e696]:
+                    - link "このクーポンで 空席確認・予約する" [ref=e698] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011676219&add=2
+                      - text: このクーポンで
+                      - text: 空席確認・予約する
+                    - link "メニューを追加して予約" [ref=e700] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011676219&add=1
+                    - paragraph [ref=e701]:
+                      - link "ブックマークする" [ref=e702] [cursor=pointer]:
+                        - /url: javascript:void(0);
+          - table "summary" [ref=e704]:
+            - rowgroup [ref=e705]:
+              - row "新 規 まつエク その他まつげメニュー ¥2,640 《ナチュラル派向け》 抜け感×まつげパーマ 【¥2640】[天王寺/阿倍野] 提示条件： 予約時＆入店時 利用条件： Hot Pepper Beautyを見てと一言 このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e706]:
+                - cell "新 規" [ref=e707]:
+                  - text: 新
+                  - text: 規
+                - cell "まつエク その他まつげメニュー ¥2,640 《ナチュラル派向け》 抜け感×まつげパーマ 【¥2640】[天王寺/阿倍野] 提示条件： 予約時＆入店時 利用条件： Hot Pepper Beautyを見てと一言" [ref=e708]:
+                  - generic [ref=e709]:
+                    - generic [ref=e710]:
+                      - list [ref=e712]:
+                        - listitem [ref=e713]: まつエク
+                        - listitem [ref=e714]: その他まつげメニュー
+                      - paragraph [ref=e715]: ¥2,640
+                    - paragraph [ref=e717]: 《ナチュラル派向け》 抜け感×まつげパーマ 【¥2640】[天王寺/阿倍野]
+                  - generic [ref=e718]:
+                    - term [ref=e719]: 提示条件：
+                    - definition [ref=e720]: 予約時＆入店時
+                    - term [ref=e721]: 利用条件：
+                    - definition [ref=e722]: Hot Pepper Beautyを見てと一言
+                - cell "このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e723]:
+                  - generic [ref=e724]:
+                    - link "このクーポンで 空席確認・予約する" [ref=e726] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011539231&add=2
+                      - text: このクーポンで
+                      - text: 空席確認・予約する
+                    - link "メニューを追加して予約" [ref=e728] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011539231&add=1
+                    - paragraph [ref=e729]:
+                      - link "ブックマークする" [ref=e730] [cursor=pointer]:
+                        - /url: javascript:void(0);
+          - table "summary" [ref=e732]:
+            - rowgroup [ref=e733]:
+              - row "新 規 まつエク その他まつげメニュー ¥3,190 《ナチュラル派》抜け感まつげパーマ+ブラックコーティング【¥3190】[天王寺] 提示条件： 予約時＆入店時 利用条件： Hot Pepper Beautyを見てと一言 このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e734]:
+                - cell "新 規" [ref=e735]:
+                  - text: 新
+                  - text: 規
+                - cell "まつエク その他まつげメニュー ¥3,190 《ナチュラル派》抜け感まつげパーマ+ブラックコーティング【¥3190】[天王寺] 提示条件： 予約時＆入店時 利用条件： Hot Pepper Beautyを見てと一言" [ref=e736]:
+                  - generic [ref=e737]:
+                    - generic [ref=e738]:
+                      - list [ref=e740]:
+                        - listitem [ref=e741]: まつエク
+                        - listitem [ref=e742]: その他まつげメニュー
+                      - paragraph [ref=e743]: ¥3,190
+                    - paragraph [ref=e745]: 《ナチュラル派》抜け感まつげパーマ+ブラックコーティング【¥3190】[天王寺]
+                  - generic [ref=e746]:
+                    - term [ref=e747]: 提示条件：
+                    - definition [ref=e748]: 予約時＆入店時
+                    - term [ref=e749]: 利用条件：
+                    - definition [ref=e750]: Hot Pepper Beautyを見てと一言
+                - cell "このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e751]:
+                  - generic [ref=e752]:
+                    - link "このクーポンで 空席確認・予約する" [ref=e754] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011539581&add=2
+                      - text: このクーポンで
+                      - text: 空席確認・予約する
+                    - link "メニューを追加して予約" [ref=e756] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011539581&add=1
+                    - paragraph [ref=e757]:
+                      - link "ブックマークする" [ref=e758] [cursor=pointer]:
+                        - /url: javascript:void(0);
+          - table "summary" [ref=e760]:
+            - rowgroup [ref=e761]:
+              - row "新 規 まつエク その他まつげメニュー ¥3,410 《ナチュラル派向け》 抜け感まつげパーマ+アイシャンプー 【¥3410】[天王寺] 提示条件： 予約時＆入店時 利用条件： Hot Pepper Beautyを見てと一言 このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e762]:
+                - cell "新 規" [ref=e763]:
+                  - text: 新
+                  - text: 規
+                - cell "まつエク その他まつげメニュー ¥3,410 《ナチュラル派向け》 抜け感まつげパーマ+アイシャンプー 【¥3410】[天王寺] 提示条件： 予約時＆入店時 利用条件： Hot Pepper Beautyを見てと一言" [ref=e764]:
+                  - generic [ref=e765]:
+                    - generic [ref=e766]:
+                      - list [ref=e768]:
+                        - listitem [ref=e769]: まつエク
+                        - listitem [ref=e770]: その他まつげメニュー
+                      - paragraph [ref=e771]: ¥3,410
+                    - paragraph [ref=e773]: 《ナチュラル派向け》 抜け感まつげパーマ+アイシャンプー 【¥3410】[天王寺]
+                  - generic [ref=e774]:
+                    - term [ref=e775]: 提示条件：
+                    - definition [ref=e776]: 予約時＆入店時
+                    - term [ref=e777]: 利用条件：
+                    - definition [ref=e778]: Hot Pepper Beautyを見てと一言
+                - cell "このクーポンで 空席確認・予約する メニューを追加して予約 ブックマークする" [ref=e779]:
+                  - generic [ref=e780]:
+                    - link "このクーポンで 空席確認・予約する" [ref=e782] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011539588&add=2
+                      - text: このクーポンで
+                      - text: 空席確認・予約する
+                    - link "メニューを追加して予約" [ref=e784] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465&couponId=CP00000011539588&add=1
+                    - paragraph [ref=e785]:
+                      - link "ブックマークする" [ref=e786] [cursor=pointer]:
+                        - /url: javascript:void(0);
+        - list [ref=e787]:
+          - listitem [ref=e788]:
+            - link "携帯に送る" [ref=e789] [cursor=pointer]:
+              - /url: https://beauty.hotpepper.jp/CSP/kr/salonSendMobile/?storeId=H000767465
+          - listitem [ref=e790]:
+            - link "印刷画面を表示する" [ref=e791] [cursor=pointer]:
+              - /url: https://beauty.hotpepper.jp/kr/slnH000767465/map/print/
+        - generic [ref=e792]:
+          - heading "ルモワ 天王寺店(Lu more)の口コミ" [level=2] [ref=e794]
+          - generic [ref=e795]:
+            - generic [ref=e796]:
+              - paragraph [ref=e797]: サロンPick Up
+              - generic [ref=e798]:
+                - paragraph [ref=e799]: さなさん（女性/20代前半/その他）
+                - paragraph [ref=e801]: "[投稿日] 2025/10/19"
+              - list [ref=e802]:
+                - listitem [ref=e803]:
+                  - text: 総合5
+                  - generic [ref=e804]: ★
+                  - generic [ref=e805]: ★
+                  - generic [ref=e806]: ★
+                  - generic [ref=e807]: ★
+                  - generic [ref=e808]: ★
+                - listitem [ref=e809]: 雰囲気5
+                - listitem [ref=e810]: 接客サービス5
+                - listitem [ref=e811]: 技術・仕上がり5
+                - listitem [ref=e812]: メニュー・料金5
+            - generic [ref=e813]:
+              - paragraph [ref=e814]:
+                - text: いつもこちらのサロンに通わせていただいております。
+                - text: 仕上がりの持ちが他のサロンと比べても本当に良く、毎回大満足です。
+                - text: 施術の前には、前回の仕上がりを丁寧に確認してくださり、今のまつ毛の状態についても詳しく教えてくださるので、日頃のケアがとてもしやすいです。
+                - text: また、こちらで販売されているまつげ美容液もとても使いやすく、効果を実感しています。
+                - text: これまでいくつかのサロンに通いましたが、初めて「ずっと指名したい」と思えるアイリストさんに出会いました。
+                - text: これからもお世話になりたいサロンです
+              - generic [ref=e815]:
+                - paragraph [ref=e816]: 予約時のクーポン・メニュー
+                - list [ref=e817]:
+                  - listitem [ref=e818]: ジャンル
+                - paragraph [ref=e820]: 【エクステ史上最強モチ◎】LED×セーブル 120本【¥7190】[天王寺/阿倍野]
+            - generic [ref=e821]:
+              - paragraph [ref=e823]: 【まつげパーマ・マツエク・眉毛専門店/天王寺】Lu more ルモワ 天王寺店からの返信コメント
+              - paragraph [ref=e824]:
+                - text: さな様
+                - text: この度は、数あるサロンの中からルモワ天王寺店
+                - text: をご利用いただき誠にありがとうございました！
+                - text: そして、嬉しい口コミも重ねてお礼申し上げます！
+                - text: 当店はお客様に安心してお過ごし頂く為
+                - text: 丁寧な接客とカウンセリングを心がけております。
+                - text: 「お客様のなりたい」を叶えるため
+                - text: カウンセリングでお悩みや
+                - text: お仕上がりのイメージをしっかりお伺いし
+                - text: お客様のキレイを全力でお手伝いさせていただきます！
+                - text: その後まつ毛の状態はいかがでしょうか？
+                - text: 次回ご来店の際、気になった点やまつ毛の状態を
+                - text: 確認させていただき、
+                - text: ご希望のデザインに仕上げられるよう
+                - text: これからもより良いサービスの提供を
+                - text: 努めて参ります。
+                - text: また、ご自宅で美容液等で
+                - text: まつ毛のケアをしていただくことで
+                - text: まつ毛がしっかりとし、さらにモチも良くなり
+                - text: 綺麗な状態を長く維持していただけます！
+                - text: ぜひお試しください♪
+                - text: さな様のまたのご来店を、ルモワ天王寺店スタッフ一同
+                - text: 心よりお待ちしております！
+                - text: ありがとうございました♪
+                - text: ルモワ天王寺店 ミヨシ
+          - paragraph [ref=e825]:
+            - link "このサロンのすべての口コミを見る" [ref=e826] [cursor=pointer]:
+              - /url: https://beauty.hotpepper.jp/kr/slnH000767465/review/
+        - paragraph [ref=e828]:
+          - link "空席確認・予約する" [ref=e829] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000767465
+        - generic [ref=e830]:
+          - generic [ref=e831]:
+            - term [ref=e832]: 口コミ平均点：
+            - definition [ref=e833]:
+              - generic [ref=e834]: "4.73"
+              - generic [ref=e835]: （752件）
+          - generic [ref=e836]:
+            - term [ref=e837]: ページ最終更新日：
+            - definition [ref=e838]: 2026/5/14
+      - generic [ref=e839]:
+        - generic [ref=e843]:
+          - definition [ref=e844]:
+            - list [ref=e847]:
+              - listitem [ref=e848]:
+                - generic [ref=e849]:
+                  - paragraph [ref=e850]: ようこそ、ゲストさん。
+                  - link "ログインする" [ref=e851] [cursor=pointer]:
+                    - /url: https://beauty.hotpepper.jp/CSP/login/
+                    - generic [ref=e853]: ログインする
+                  - paragraph [ref=e854]:
+                    - link "会員登録する（無料）" [ref=e855] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/my/memberRegist/
+                - generic [ref=e858]:
+                  - paragraph [ref=e859]:
+                    - text: ホットペッパービューティーなら
+                    - text: ポイントが1%たまる！
+                  - paragraph [ref=e860]:
+                    - text: ためたポイントをつかっておとく
+                    - text: にサロンをネット予約！
+                - link "dポイント Pontaポイント" [ref=e862] [cursor=pointer]:
+                  - /url: https://point.recruit.co.jp/member/relExpCont?siteCd=HPB
+                  - img "dポイント Pontaポイント" [ref=e863]
+                - list [ref=e864]:
+                  - listitem [ref=e865]:
+                    - link "たまるポイントについて" [ref=e866] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                  - listitem [ref=e867]:
+                    - link "つかえるサービス一覧" [ref=e868] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                  - listitem [ref=e869]:
+                    - link "ポイント設定変更" [ref=e870] [cursor=pointer]:
+                      - /url: javascript:void(0);
+          - definition [ref=e871]:
+            - list [ref=e875]:
+              - listitem [ref=e876]:
+                - generic [ref=e877]:
+                  - term [ref=e878]: ブックマーク
+                  - definition [ref=e879]: ログインすると会員情報に保存できます
+                  - definition [ref=e880]:
+                    - link "サロン" [ref=e881] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/my/bookmarkSalon/listGuest/?wak=KPCO100001_link_bookmarksalon_nologin
+                      - text: サロン
+                  - definition [ref=e882]:
+                    - link "スタイリスト" [ref=e883] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/my/bookmarkStylist/listGuest/?wak=KPCO100001_link_bookmarkstylist_nologin
+                      - text: スタイリスト
+                  - definition [ref=e884]:
+                    - link "クーポン" [ref=e885] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/my/bookmarkCoupon/listGuest/?wak=KPCO100001_link_bookmarkcoupon_nologin
+                      - text: クーポン
+                  - definition [ref=e886]:
+                    - link "ヘアスタイル" [ref=e887] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/my/bookmarkStyle/listGuest/?wak=KPCO100001_link_bookmarkstyle_nologin
+                      - text: ヘアスタイル
+                  - definition [ref=e888]:
+                    - link "ネイルデザイン" [ref=e889] [cursor=pointer]:
+                      - /url: https://beauty.hotpepper.jp/CSP/my/bookmarkDesign/listGuest/?wak=KPCO100001_link_bookmarknaildesign_nologin
+                      - text: ネイルデザイン
+          - term [ref=e890]: 最近見たサロン
+          - definition [ref=e891]:
+            - list [ref=e894]:
+              - listitem [ref=e895]:
+                - paragraph [ref=e896]: 心斎橋・難波・天王寺
+                - paragraph [ref=e897]:
+                  - link "【まつげパーマ・マツエク・眉毛専門店/天王寺】Lu more ルモワ 天王寺店" [ref=e898] [cursor=pointer]:
+                    - /url: /kr/slnH000767465/
+        - list [ref=e899]:
+          - generic [ref=e902]:
+            - term [ref=e903]: よくある問い合わせ
+            - definition [ref=e904]:
+              - list [ref=e905]:
+                - listitem [ref=e906]:
+                  - link "スマート支払いについて" [ref=e907] [cursor=pointer]:
+                    - /url: https://beauty.help.hotpepper.jp/s/topic/0TO2s000000PF9oGAG/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E6%94%AF%E6%89%95%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+                - listitem [ref=e908]:
+                  - link "行きたいサロン・近隣のサロンが掲載されていません" [ref=e909] [cursor=pointer]:
+                    - /url: https://beauty.help.hotpepper.jp/app/answers/detail/a_id/13634/
+                - listitem [ref=e910]:
+                  - link "ポイントはどこのサロンで使えますか？" [ref=e911] [cursor=pointer]:
+                    - /url: https://beauty.help.hotpepper.jp/app/answers/detail/a_id/508/
+                - listitem [ref=e912]:
+                  - link "子供や友達の分の予約も代理でネット予約できますか？" [ref=e913] [cursor=pointer]:
+                    - /url: https://beauty.help.hotpepper.jp/app/answers/detail/a_id/522/
+                - listitem [ref=e914]:
+                  - link "予約をキャンセルしたい" [ref=e915] [cursor=pointer]:
+                    - /url: https://beauty.help.hotpepper.jp/app/answers/detail/a_id/480/
+                - listitem [ref=e916]:
+                  - link "「無断キャンセル」と表示が出て、ネット予約ができない" [ref=e917] [cursor=pointer]:
+                    - /url: https://beauty.help.hotpepper.jp/app/answers/detail/a_id/13515/
+    - generic [ref=e919]:
+      - list [ref=e920]:
+        - listitem [ref=e921]:
+          - link "サロン情報" [ref=e922] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/kr/slnH000767465/
+        - listitem [ref=e923]:
+          - link "クーポン・メニュー" [ref=e924] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/kr/slnH000767465/coupon/
+        - listitem [ref=e925]:
+          - link "こだわり" [ref=e926] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/kr/slnH000767465/kodawari/
+        - listitem [ref=e927]:
+          - link "フォトギャラリー" [ref=e928] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/kr/slnH000767465/photo/
+        - listitem [ref=e929]:
+          - link "スタッフ" [ref=e930] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/kr/slnH000767465/staff/
+        - listitem [ref=e931]:
+          - link "ブログ" [ref=e932] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/kr/slnH000767465/blog/
+        - listitem [ref=e933]:
+          - link "地図" [ref=e934] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/kr/slnH000767465/map/
+        - listitem [ref=e935]:
+          - link "口コミ" [ref=e936] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/kr/slnH000767465/review/
+      - list [ref=e937]:
+        - listitem [ref=e938]:
+          - link "心斎橋・難波・天王寺" [ref=e939] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/
+        - listitem [ref=e940]:
+          - link "天王寺・あべの・寺田町" [ref=e941] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/salon/sacX382/
+        - listitem [ref=e942]:
+          - link "大阪府" [ref=e943] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/g-eyelash/pre27/
+        - listitem [ref=e944]:
+          - link "大阪市" [ref=e945] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/g-eyelash/pre27/city27100001/
+        - listitem [ref=e946]:
+          - link "大阪市阿倍野区" [ref=e947] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/g-eyelash/pre27/city11900000/
+        - listitem [ref=e948]:
+          - link "阿倍野" [ref=e949] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/g-eyelash/stc2200220/?kwCont=1
+        - listitem [ref=e950]:
+          - link "大阪阿部野橋" [ref=e951] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/g-eyelash/stc2203425/?kwCont=1
+        - listitem [ref=e952]:
+          - link "天王寺" [ref=e953] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/g-eyelash/stc2200065/?kwCont=1
+        - listitem [ref=e954]:
+          - link "初めての方にオススメ" [ref=e955] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/grcGR05_spdL038/
+        - listitem [ref=e956]:
+          - link "アイブロウメニューがあるサロン" [ref=e957] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/grcGR05_spdL141/
+        - listitem [ref=e958]:
+          - link "キープ力が自慢のサロン" [ref=e959] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/grcGR05_spdL197/
+        - listitem [ref=e960]:
+          - link "ナチュラル上品な目元にしたい" [ref=e961] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/grcGR05_spdL064/
+        - listitem [ref=e962]:
+          - link "エクステの種類が豊富" [ref=e963] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/grcGR05_spdL080/
+        - listitem [ref=e964]:
+          - link "ボリュームのある目元にしたい" [ref=e965] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/grcGR05_spdL063/
+        - listitem [ref=e966]:
+          - link "モテ可愛な目元にしたい" [ref=e967] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/grcGR05_spdL079/
+        - listitem [ref=e968]:
+          - link "大人女性向けこだわりサロン" [ref=e969] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/grcGR05_spdL203/
+        - listitem [ref=e970]:
+          - link "目の形にあったエクステ提案が得意" [ref=e971] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/grcGR05_spdL194/
+        - listitem [ref=e972]:
+          - link "特別な日に合う華やかな目元にしたい" [ref=e973] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/grcGR05_spdL193/
+      - list [ref=e974]:
+        - listitem [ref=e975]:
+          - link "関西のジム・パーソナルトレーニング・加圧" [ref=e976] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/esthe/svcSB/grcGR06_spdL228/
+        - listitem [ref=e977]:
+          - link "心斎橋・難波・天王寺のポイントが利用できるサロン" [ref=e978] [cursor=pointer]:
+            - /url: https://beauty.hotpepper.jp/nail/svcSB/macBB/salon/point/
+      - generic [ref=e979]:
+        - term [ref=e980]: ルモワ 天王寺店(Lu more)の近隣サロン
+        - definition [ref=e981]:
+          - list [ref=e982]:
+            - listitem [ref=e983]:
+              - link "ハナン 天王寺(hanan)" [ref=e984] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767466/
+              - text: "|"
+            - listitem [ref=e985]:
+              - link "アイラッシュプラザ(EYELASH PLAZA)" [ref=e986] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000359280/
+              - text: "|"
+            - listitem [ref=e987]:
+              - link "メラ 天王寺店(mera)" [ref=e988] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767439/
+              - text: "|"
+            - listitem [ref=e989]:
+              - link "アイニコ 天王寺店(eyenico)" [ref=e990] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000775113/
+              - text: "|"
+            - listitem [ref=e991]:
+              - link "ロレインアイ 天王寺阿倍野店" [ref=e992] [cursor=pointer]:
+                - /url: https://beauty.hotpepper.jp/kr/slnH000767669/
+    - generic [ref=e994]:
+      - link "(C) Recruit Co., Ltd." [ref=e996] [cursor=pointer]:
+        - /url: https://www.recruit.co.jp/
+        - img "(C) Recruit Co., Ltd." [ref=e997]
+      - generic [ref=e998]:
+        - list [ref=e999]:
+          - listitem [ref=e1000]:
+            - link "HOT PEPPER Beautyとサロンボード導入のご案内" [ref=e1001] [cursor=pointer]:
+              - /url: https://beauty.hotpepper.jp/doc/keisai/keisai.html
+          - listitem [ref=e1002]:
+            - link "掲載をご希望のサロン様はこちら" [ref=e1003] [cursor=pointer]:
+              - /url: https://beauty.hotpepper.jp/CSP/publicationInquiry/?wak=KPCO100001_link_sentel_footer
+        - list [ref=e1004]:
+          - listitem [ref=e1005]:
+            - link "ID・会員規約" [ref=e1006] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - listitem [ref=e1007]:
+            - link "利用規約" [ref=e1008] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - listitem [ref=e1009]:
+            - link "プライバシーポリシー" [ref=e1010] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - listitem [ref=e1011]:
+            - link "ご利用ガイド" [ref=e1012] [cursor=pointer]:
+              - /url: javascript:void(0);

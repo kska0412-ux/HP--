@@ -1,0 +1,15 @@
+- generic [ref=e2]:
+  - link [ref=e10] [cursor=pointer]:
+    - /url: "#studio"
+  - link [ref=e22] [cursor=pointer]:
+    - /url: "#studio"
+  - link [ref=e26] [cursor=pointer]:
+    - /url: "#studio"
+  - link [ref=e31] [cursor=pointer]:
+    - /url: https://lin.ee/KqkjUTT
+  - link [ref=e34] [cursor=pointer]:
+    - /url: https://lin.ee/L8E1vfB
+  - link [ref=e37] [cursor=pointer]:
+    - /url: https://lin.ee/tWeGTmV
+  - contentinfo [ref=e38]:
+    - generic [ref=e39]: © 株式会社eleven nine All rights reserved.

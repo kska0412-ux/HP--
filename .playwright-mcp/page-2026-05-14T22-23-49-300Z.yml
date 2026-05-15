@@ -1,0 +1,99 @@
+- generic [ref=e2]:
+  - link [ref=e7] [cursor=pointer]:
+    - /url: https://lin.ee/pdrEyg9
+  - generic [ref=e10]:
+    - link [ref=e12] [cursor=pointer]:
+      - /url: https://lin.ee/pdrEyg9
+    - generic [ref=e13]:
+      - link:
+        - /url: "#contact"
+  - generic [ref=e21]:
+    - link [ref=e23] [cursor=pointer]:
+      - /url: https://lin.ee/pdrEyg9
+    - generic [ref=e24]:
+      - link:
+        - /url: "#contact"
+  - generic [ref=e49]:
+    - link [ref=e51] [cursor=pointer]:
+      - /url: https://lin.ee/pdrEyg9
+    - generic [ref=e52]:
+      - link:
+        - /url: "#contact"
+  - link [ref=e59] [cursor=pointer]:
+    - /url: https://lin.ee/pdrEyg9
+  - generic [ref=e62]:
+    - paragraph [ref=e63]:
+      - text: まずはお気軽にご相談ください。あなたの目的やライフスタイルに合わせて、最適な学び方・働き方をご提案いたします。
+      - text: 無理な勧誘は一切ありません。「自分にもできるかな？」という軽い気持ちでお話にいらしてください。
+    - generic [ref=e64]:
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - text: お名前
+            - generic [ref=e68]: 必須
+          - textbox "鈴木 愛子" [ref=e69]
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - text: フリガナ
+            - generic [ref=e72]: 必須
+          - textbox "スズキ アイコ" [ref=e73]
+        - generic [ref=e74]:
+          - generic [ref=e75]:
+            - text: メールアドレス
+            - generic [ref=e76]: 必須
+          - textbox "mail@sample.com" [ref=e77]
+        - generic [ref=e78]:
+          - generic [ref=e79]:
+            - text: 電話番号
+            - generic [ref=e80]: 必須
+          - textbox "09012345678（ハイフン不要）" [ref=e81]
+        - generic [ref=e82]:
+          - generic [ref=e83]:
+            - text: ご興味のある種目
+            - generic [ref=e84]: 必須
+          - generic [ref=e85]:
+            - checkbox "深層筋オイル" [ref=e86]
+            - generic [ref=e87]: 深層筋オイル
+          - generic [ref=e88]:
+            - checkbox "深圧揉みほぐし" [ref=e89]
+            - generic [ref=e90]: 深圧揉みほぐし
+          - generic [ref=e91]:
+            - checkbox "深圧リフレクソロジー" [ref=e92]
+            - generic [ref=e93]: 深圧リフレクソロジー
+          - generic [ref=e94]:
+            - checkbox "癒しのハンドリフレクソロジー" [ref=e95]
+            - generic [ref=e96]: 癒しのハンドリフレクソロジー
+          - generic [ref=e97]:
+            - checkbox "熟睡ヘッドケア" [ref=e98]
+            - generic [ref=e99]: 熟睡ヘッドケア
+          - generic [ref=e100]:
+            - checkbox "リフトアップフェイシャルトリートメント" [ref=e101]
+            - generic [ref=e102]: リフトアップフェイシャルトリートメント
+        - generic [ref=e103]:
+          - text: ご質問などございましたらご入力ください
+          - textbox "セラピスト業界を目指すうえでのご不安や、就職・費用のことなどお気軽にご相談ください。" [ref=e104]
+      - button "送信" [ref=e105] [cursor=pointer]:
+        - img "送信" [ref=e106]
+      - generic [ref=e108]:
+        - heading "個人情報の取り扱いについて" [level=3] [ref=e109]
+        - paragraph [ref=e110]: ・ご入力いただいた個人情報は、ルシルアカデミー（以下「当スクール」）の入学に関する案内や情報提供、及び資料作成のための分析目的に使用いたします。
+        - paragraph [ref=e111]: ・個人情報は法令に基づく場合を除き、ご本人の承諾なく業務委託先および提携先以外の第三者に開示または提供いたしません。
+        - paragraph [ref=e112]: ・ご登録いただいた個人情報について、開示、訂正、削除をご希望の場合は、いつでも下記お問い合わせ窓口までご連絡ください。
+        - paragraph [ref=e113]: ・当スクールの個人情報取扱いについての詳細は、当サイト内の『プライバシーポリシー』をご覧ください。
+        - paragraph [ref=e114]: ・内容の確認のため、ご入力いただいたメールアドレス・電話番号あてにメールやショートメッセージを送信する場合がございます。
+        - paragraph [ref=e115]: ＜個人情報に関するお問い合わせ窓口＞
+        - paragraph [ref=e116]:
+          - text: 〒163‐0590 東京都新宿区西新宿1-26-2新宿野村ビル地下2階
+          - text: ルシルアカデミー 個人情報保護係 宛
+          - text: "E-mail: info@lucilacademy.jp"
+  - contentinfo [ref=e117]:
+    - generic [ref=e118]:
+      - link "特定商取引法に基づく表示" [ref=e119] [cursor=pointer]:
+        - /url: ./tokusho.html
+      - text: "|"
+      - link "利用規約" [ref=e120] [cursor=pointer]:
+        - /url: ./riyoukiyaku.html
+      - text: "|"
+      - link "プライバシーポリシー" [ref=e121] [cursor=pointer]:
+        - /url: ./privacy.html
+    - generic [ref=e122]: © ルシルアカデミー All rights reserved.

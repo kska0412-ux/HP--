@@ -1,0 +1,116 @@
+- generic [ref=e2]:
+  - banner [ref=e3]
+  - generic [ref=e5]:
+    - generic:
+      - link:
+        - /url: "#contact"
+  - generic [ref=e6]:
+    - heading [level=2] [ref=e7]
+    - generic [ref=e8]:
+      - generic [ref=e10]:
+        - link [ref=e12] [cursor=pointer]:
+          - /url: https://liff.line.me/1657517803-WrGoGLxz/landing?follow=%40jmp1829b&lp=UdFtd0&liff_id=1657517803-WrGoGLxz
+        - link [ref=e14] [cursor=pointer]:
+          - /url: https://nara-matsukotsu.com/contact
+      - generic [ref=e16]:
+        - link [ref=e18] [cursor=pointer]:
+          - /url: https://line.me/R/ti/p/%40100mfoyp
+        - link [ref=e20] [cursor=pointer]:
+          - /url: https://nara-matsukotsu.com/contact
+  - heading [level=2] [ref=e23]
+  - generic [ref=e25]:
+    - generic:
+      - link:
+        - /url: "#contact"
+  - generic [ref=e26]:
+    - heading [level=2] [ref=e27]
+    - generic [ref=e28]:
+      - generic [ref=e30]:
+        - link [ref=e32] [cursor=pointer]:
+          - /url: https://liff.line.me/1657517803-WrGoGLxz/landing?follow=%40jmp1829b&lp=UdFtd0&liff_id=1657517803-WrGoGLxz
+        - link [ref=e34] [cursor=pointer]:
+          - /url: https://nara-matsukotsu.com/contact
+      - generic [ref=e36]:
+        - link [ref=e38] [cursor=pointer]:
+          - /url: https://line.me/R/ti/p/%40100mfoyp
+        - link [ref=e40] [cursor=pointer]:
+          - /url: https://nara-matsukotsu.com/contact
+  - heading [level=2] [ref=e43]
+  - heading [level=2] [ref=e45]
+  - heading [level=2] [ref=e47]
+  - generic [ref=e49]:
+    - generic:
+      - link:
+        - /url: "#contact"
+  - generic [ref=e50]:
+    - heading [level=2] [ref=e51]
+    - generic [ref=e52]:
+      - generic [ref=e54]:
+        - link [ref=e56] [cursor=pointer]:
+          - /url: https://liff.line.me/1657517803-WrGoGLxz/landing?follow=%40jmp1829b&lp=UdFtd0&liff_id=1657517803-WrGoGLxz
+        - link [ref=e58] [cursor=pointer]:
+          - /url: https://nara-matsukotsu.com/contact
+      - generic [ref=e60]:
+        - link [ref=e62] [cursor=pointer]:
+          - /url: https://line.me/R/ti/p/%40100mfoyp
+        - link [ref=e64] [cursor=pointer]:
+          - /url: https://nara-matsukotsu.com/contact
+  - heading [level=2] [ref=e66]
+  - generic [ref=e67]:
+    - heading [level=2] [ref=e68]
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - text: 骨盤矯正は、出産後どのくらいから
+          - text: 始めるのがいいのですか？
+        - paragraph [ref=e74]: 普通分娩では1か月以降、帝王切開では２か月以降から始められます。また、早ければ早いほど効果が出やすいので早めの相談をおすすめします。
+      - generic [ref=e75]:
+        - generic [ref=e76]: 骨盤矯正は何回くらいの施術が必要ですか？
+        - paragraph [ref=e78]: 矯正は一度で歪みは取れますが最初のうちは元に戻りやすいのです。年齢や出産回数・目的にもよりますが当院では１０～１５回程度の施術を推奨しております。
+      - generic [ref=e79]:
+        - generic [ref=e80]: 施術料金はどのくらいですか？
+        - generic [ref=e81]:
+          - paragraph [ref=e82]: 初回はお試しで2950円です。二回目以降は回数券もございます。産後矯正は目的にもよりますが継続が必要となります。
+          - paragraph [ref=e83]: 1回当たりの矯正料金2500円～といったお得な回数券もご用意しております。お客様のニーズにお応えできるプランをご用意させて頂いております。
+          - paragraph [ref=e84]: またお支払いしやすい月額サービスもご用意しております。
+      - generic [ref=e85]:
+        - generic [ref=e86]: 骨盤矯正の時に痛みはありますか？
+        - paragraph [ref=e88]: まつい鍼灸整骨院グループの矯正法は沢山あります。痛みが心配な方には痛みがない最善の施術をさせて頂く事が可能ですのでご安心ください。
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - text: 骨盤矯正の最適な時期はいつですか？
+          - text: 手遅れではないですか？
+        - generic [ref=e91]:
+          - paragraph [ref=e92]: 産後の骨盤矯正のお客様で一番多いご質問ですが、出産矯正に明確な時期は存在しません。ただ、産後時間の経過と共に効果が出にくくなったり、効果が出るまでの回数が増えてしまう可能性があります。
+          - table [ref=e94]:
+            - rowgroup [ref=e95]:
+              - row "①最も効果が出やすい時期 出産1か月〜産後10か月まで" [ref=e96]:
+                - rowheader "①最も効果が出やすい時期" [ref=e97]
+                - cell "出産1か月〜産後10か月まで" [ref=e98]
+              - row "②効果が見込める時期 産後ダイエットにも効果的な時期 産後11か月〜産後3年半まで" [ref=e99]:
+                - rowheader "②効果が見込める時期 産後ダイエットにも効果的な時期" [ref=e100]:
+                  - text: ②効果が見込める時期
+                  - text: 産後ダイエットにも効果的な時期
+                - cell "産後11か月〜産後3年半まで" [ref=e101]
+              - row "③効果が出るまでに時間がかかる時期 産後3年半〜" [ref=e102]:
+                - rowheader "③効果が出るまでに時間がかかる時期" [ref=e103]
+                - cell "産後3年半〜" [ref=e104]
+          - paragraph [ref=e105]: ※骨盤の状態は個人差が大きく、産後5年経過したお客様でも、目に見えて効果が出た方もいます。あくまで目安の一つです。
+  - generic [ref=e107]:
+    - generic:
+      - link:
+        - /url: "#contact"
+  - generic [ref=e108]:
+    - heading [level=2] [ref=e109]
+    - generic [ref=e110]:
+      - generic [ref=e112]:
+        - link [ref=e114] [cursor=pointer]:
+          - /url: https://liff.line.me/1657517803-WrGoGLxz/landing?follow=%40jmp1829b&lp=UdFtd0&liff_id=1657517803-WrGoGLxz
+        - link [ref=e116] [cursor=pointer]:
+          - /url: https://nara-matsukotsu.com/contact
+      - generic [ref=e118]:
+        - link [ref=e120] [cursor=pointer]:
+          - /url: https://line.me/R/ti/p/%40100mfoyp
+        - link [ref=e122] [cursor=pointer]:
+          - /url: https://nara-matsukotsu.com/contact
+  - contentinfo [ref=e123]: Copyright © 2024 大和高田・大和八木「まつい鍼灸整骨院／橿原たくみ鍼灸院・接骨院」 All rights reserved.

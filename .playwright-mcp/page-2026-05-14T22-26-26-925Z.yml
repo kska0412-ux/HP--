@@ -1,0 +1,183 @@
+- generic [ref=e2]:
+  - img [ref=e3]
+  - generic [ref=e4]:
+    - img [ref=e5]
+    - link "体も心も、そっと預けに行く" [ref=e7] [cursor=pointer]:
+      - /url: "#contact"
+      - img "体も心も、そっと預けに行く" [ref=e8]
+  - img [ref=e9]
+  - img [ref=e10]
+  - img [ref=e11]
+  - img [ref=e12]
+  - img [ref=e13]
+  - generic [ref=e14]:
+    - img [ref=e15]
+    - link "体も心も、そっと預けに行く" [ref=e17] [cursor=pointer]:
+      - /url: "#contact"
+      - img "体も心も、そっと預けに行く" [ref=e18]
+  - img [ref=e19]
+  - img [ref=e20]
+  - img [ref=e21]
+  - generic [ref=e22]:
+    - img [ref=e23]
+    - link "体も心も、そっと預けに行く" [ref=e25] [cursor=pointer]:
+      - /url: "#contact"
+      - img "体も心も、そっと預けに行く" [ref=e26]
+  - img [ref=e27]
+  - img [ref=e28]
+  - img [ref=e29]
+  - generic [ref=e30]:
+    - img [ref=e31]
+    - link "LINE先着30名限定。初回70分税込9,900円" [ref=e33] [cursor=pointer]:
+      - /url: https://lin.ee/XLtajjz
+      - img "LINE先着30名限定。初回70分税込9,900円" [ref=e34]
+  - img [ref=e35]
+  - generic [ref=e36]:
+    - img [ref=e37]
+    - link "体も心も、そっと預けに行く" [ref=e39] [cursor=pointer]:
+      - /url: "#contact"
+      - img "体も心も、そっと預けに行く" [ref=e40]
+  - generic [ref=e41]:
+    - img [ref=e42]
+    - iframe [ref=e44]:
+      
+  - generic [ref=e45]:
+    - img [ref=e46]
+    - link "LINEで相談する" [ref=e48] [cursor=pointer]:
+      - /url: https://lin.ee/XLtajjz
+      - img "LINEで相談する" [ref=e49]
+  - generic [ref=e52]:
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - text: お名前（姓）
+            - generic [ref=e57]: 必須
+          - textbox "例）鈴木" [ref=e58]
+        - generic [ref=e59]:
+          - generic [ref=e60]:
+            - text: お名前（名）
+            - generic [ref=e61]: 必須
+          - textbox "例）太郎" [ref=e62]
+      - generic [ref=e63]:
+        - generic [ref=e64]:
+          - generic [ref=e65]:
+            - text: フリガナ（セイ）
+            - generic [ref=e66]: 必須
+          - textbox "例）スズキ" [ref=e67]
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - text: フリガナ（メイ）
+            - generic [ref=e70]: 必須
+          - textbox "例）タロウ" [ref=e71]
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - text: ご年齢（数字のみ）
+          - generic [ref=e74]: 必須
+        - spinbutton [ref=e75]
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - text: ご連絡先電話番号
+          - generic [ref=e78]: 必須
+        - textbox "例）070-0000-1111" [ref=e79]
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - text: メールアドレス
+          - generic [ref=e82]: 必須
+        - textbox "例）mail@example.com" [ref=e83]
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - text: メールアドレス（確認用）
+          - generic [ref=e86]: 必須
+        - textbox "例）mail@example.com" [ref=e87]
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - text: レンタルウェアのサイズ
+          - generic [ref=e90]: 必須
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - radio "S" [ref=e93]
+            - generic [ref=e94]: S
+          - generic [ref=e95]:
+            - radio "M" [ref=e96]
+            - generic [ref=e97]: M
+          - generic [ref=e98]:
+            - radio "L" [ref=e99]
+            - generic [ref=e100]: L
+          - generic [ref=e101]:
+            - radio "XL" [ref=e102]
+            - generic [ref=e103]: XL
+          - generic [ref=e104]:
+            - radio "XXL" [ref=e105]
+            - generic [ref=e106]: XXL
+      - generic [ref=e107]:
+        - paragraph [ref=e108]: 体験ストレッチご希望日時
+        - paragraph [ref=e109]:
+          - text: 翌日のご予約受付は前日20時までです。
+          - text: 当日のご予約は承っておりませんので予めご了承くださいませ。
+          - text: トライアルレッスンはトレーナーの指名は出来ません。
+          - text: インストラクターの指名はメンバー特典となりますので予めご了承くださいませ。
+        - generic [ref=e110]:
+          - text: 第一希望
+          - generic [ref=e111]: 必須
+        - textbox [ref=e112]: 2026-05-15
+        - combobox [ref=e113]:
+          - option "希望の時間を選択してください" [disabled] [selected]
+          - option "7:00〜"
+          - option "8:30〜"
+          - option "10:00〜"
+          - option "11:30〜"
+          - option "13:00〜"
+          - option "14:30〜"
+          - option "16:00〜"
+          - option "17:30〜"
+          - option "19:00〜"
+          - option "20:30〜"
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - text: 第二希望
+          - generic [ref=e116]: 必須
+        - textbox [ref=e117]: 2026-05-15
+        - combobox [ref=e118]:
+          - option "希望の時間を選択してください" [disabled] [selected]
+          - option "7:00〜"
+          - option "8:30〜"
+          - option "10:00〜"
+          - option "11:30〜"
+          - option "13:00〜"
+          - option "14:30〜"
+          - option "16:00〜"
+          - option "17:30〜"
+          - option "19:00〜"
+          - option "20:30〜"
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - text: 第三希望
+          - generic [ref=e121]: 必須
+        - textbox [ref=e122]: 2026-05-15
+        - combobox [ref=e123]:
+          - option "希望の時間を選択してください" [disabled] [selected]
+          - option "7:00〜"
+          - option "8:30〜"
+          - option "10:00〜"
+          - option "11:30〜"
+          - option "13:00〜"
+          - option "14:30〜"
+          - option "16:00〜"
+          - option "17:30〜"
+          - option "19:00〜"
+          - option "20:30〜"
+      - generic [ref=e124]:
+        - generic [ref=e125]:
+          - text: お問い合わせ内容
+          - generic [ref=e126]: 必須
+        - textbox "その他質問などございましたらご入力ください" [ref=e127]
+    - button "体験予約を申し込む" [ref=e128] [cursor=pointer]
+  - contentinfo [ref=e129]:
+    - generic [ref=e130]:
+      - link "特定商取引法に基づく表示" [ref=e131] [cursor=pointer]:
+        - /url: https://erc-japan.com/company.php
+      - text: "|"
+      - link "プライバシーポリシー" [ref=e132] [cursor=pointer]:
+        - /url: https://erc-japan.com/privacypolicy.php
+    - generic [ref=e133]: Copyright© 大人の脱力ストレッチ All rights reserved.
