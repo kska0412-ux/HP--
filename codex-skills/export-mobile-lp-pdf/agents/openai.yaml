@@ -1,0 +1,4 @@
+interface:
+  display_name: "Export Mobile LP PDF"
+  short_description: "Make phone-size PDFs from mobile LPs."
+  default_prompt: "Use $export-mobile-lp-pdf to convert this mobile LP into a smartphone-readable PDF with optional split JPG previews."
