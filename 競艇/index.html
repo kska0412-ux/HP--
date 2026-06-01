@@ -214,6 +214,31 @@
       height: auto;
     }
 
+    .testimonial-proof {
+      display: grid;
+      gap: 10px;
+      margin: 0 0 8px;
+      border-top: 2px solid var(--accent);
+      padding-top: 12px;
+    }
+
+    .testimonial-photo {
+      width: 96px;
+      height: 96px;
+      border: 2px solid var(--accent);
+      border-radius: 50%;
+      object-fit: cover;
+      justify-self: center;
+    }
+
+    .testimonial-copy {
+      margin: 0;
+      color: var(--text-primary);
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 1.75;
+    }
+
     .meta-table,
     .data-table {
       width: 100%;
@@ -581,73 +606,21 @@
         <figure class="result-proof">
           <img src="./assets/result-proof.jpg" alt="浜名湖12R 3連単フォーメーション的中実績" loading="lazy" width="960" height="368">
         </figure>
-        <table class="meta-table" aria-label="実績01 メタ情報">
-          <thead>
-            <tr>
-              <th scope="col">開催日</th>
-              <th scope="col">投票方法</th>
-              <th scope="col">場名</th>
-              <th scope="col">レース数</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td data-result-date-1="">2026-05-23</td>
-              <td>3連単</td>
-              <td data-result-place-1="">桐生</td>
-              <td data-result-race-1="">第8R</td>
-            </tr>
-          </tbody>
-        </table>
-        <p class="date-band"><span class="nowrap" data-date-band-1="">2026-05-23</span> 実績</p>
-        <table class="data-table" aria-label="実績01 データ">
-          <colgroup>
-            <col>
-            <col>
-            <col>
-            <col>
-          </colgroup>
-          <thead>
-            <tr>
-              <th scope="col">No</th>
-              <th scope="col">種別</th>
-              <th scope="col">購入金額</th>
-              <th scope="col">払戻金額</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>01</td>
-              <td>通常</td>
-              <td>¥8,000</td>
-              <td class="payout">¥0</td>
-            </tr>
-            <tr>
-              <td>02</td>
-              <td>通常</td>
-              <td>¥12,000</td>
-              <td class="payout">¥0</td>
-            </tr>
-            <tr>
-              <td>03</td>
-              <td><span class="hit-badge">的中</span></td>
-              <td>¥10,000</td>
-              <td class="payout-hit" data-amount-1="">¥581,000</td>
-            </tr>
-            <tr>
-              <td>04</td>
-              <td>通常</td>
-              <td>¥9,000</td>
-              <td class="payout">¥0</td>
-            </tr>
-            <tr>
-              <td>05</td>
-              <td>通常</td>
-              <td>¥11,000</td>
-              <td class="payout">¥0</td>
-            </tr>
-          </tbody>
-        </table>
+        <div class="testimonial-proof" aria-label="利用者の感想">
+          <img class="testimonial-photo" src="./assets/testimonial-man.jpg" alt="利用者男性の写真" loading="lazy" width="720" height="720">
+          <p class="testimonial-copy">
+            <span class="br">ギャン坊さんお疲れ様です。</span>
+            <span class="br">いや〜腰抜かしました。</span>
+            <span class="br">ご飯食ってる時に結果見たんですが、</span>
+            <span class="br">思わず店で変な声出ました笑</span>
+            <span class="br">まさか自分がこんな払戻もらえるとは</span>
+            <span class="br">思ってなかったです。</span>
+            <span class="br">最近仕事もしんどくて</span>
+            <span class="br">気分落ちてたんですが、</span>
+            <span class="br">一気に元気出ました。</span>
+            <span class="br">これからもよろしくお願いします！</span>
+          </p>
+        </div>
         <a class="result-cta" href="http://bit.ly/4nIN410" data-cv="line">
           <span data-edit="cta-label">無料予想を見る</span>
         </a>
