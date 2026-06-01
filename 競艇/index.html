@@ -231,6 +231,22 @@
       justify-self: center;
     }
 
+    .testimonial-name-tag {
+      display: inline-flex;
+      min-height: 34px;
+      align-items: center;
+      justify-self: start;
+      border: 2px solid var(--accent);
+      border-radius: 8px;
+      background: var(--card-bg);
+      box-shadow: 3px 3px 0 var(--accent);
+      padding: 4px 13px 5px;
+      color: var(--text-primary);
+      font-size: 15px;
+      font-weight: 800;
+      line-height: 1.25;
+    }
+
     .testimonial-copy {
       margin: 0;
       color: var(--text-primary);
@@ -652,75 +668,23 @@
       <article class="result-card" data-result-card="3">
         <h2 class="result-card-title">
           <span class="br" data-edit="result-title-3">サンプル実績 03</span>
-          <span class="br">回収額 <span class="nowrap" data-amount-3="">¥750,000</span></span>
+          <span class="br">回収額 <span class="nowrap" data-amount-3="">¥236,500</span></span>
         </h2>
-        <table class="meta-table" aria-label="実績03 メタ情報">
-          <thead>
-            <tr>
-              <th scope="col">開催日</th>
-              <th scope="col">投票方法</th>
-              <th scope="col">場名</th>
-              <th scope="col">レース数</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td data-result-date-3="">2026-05-21</td>
-              <td>3連単</td>
-              <td data-result-place-3="">江戸川</td>
-              <td data-result-race-3="">第9R</td>
-            </tr>
-          </tbody>
-        </table>
-        <p class="date-band"><span class="nowrap" data-date-band-3="">2026-05-21</span> 実績</p>
-        <table class="data-table" aria-label="実績03 データ">
-          <colgroup>
-            <col>
-            <col>
-            <col>
-            <col>
-          </colgroup>
-          <thead>
-            <tr>
-              <th scope="col">No</th>
-              <th scope="col">種別</th>
-              <th scope="col">購入金額</th>
-              <th scope="col">払戻金額</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>01</td>
-              <td>通常</td>
-              <td>¥10,000</td>
-              <td class="payout">¥0</td>
-            </tr>
-            <tr>
-              <td>02</td>
-              <td>通常</td>
-              <td>¥15,000</td>
-              <td class="payout">¥0</td>
-            </tr>
-            <tr>
-              <td>03</td>
-              <td><span class="hit-badge">的中</span></td>
-              <td>¥12,000</td>
-              <td class="payout-hit" data-amount-3="">¥750,000</td>
-            </tr>
-            <tr>
-              <td>04</td>
-              <td>通常</td>
-              <td>¥9,000</td>
-              <td class="payout">¥0</td>
-            </tr>
-            <tr>
-              <td>05</td>
-              <td>通常</td>
-              <td>¥11,000</td>
-              <td class="payout">¥0</td>
-            </tr>
-          </tbody>
-        </table>
+        <figure class="result-proof">
+          <img src="./assets/result-proof-03.jpg" alt="常滑4R 3連単236,500円的中明細" loading="lazy" width="760" height="1322">
+        </figure>
+        <div class="testimonial-proof" aria-label="利用者の感想">
+          <span class="testimonial-name-tag" aria-label="利用者名">T.Aさん</span>
+          <p class="testimonial-copy">
+            <span class="br">ギャン坊さん、</span>
+            <span class="br">ありがとうございます。</span>
+            <span class="br">競艇歴は長いですが、</span>
+            <span class="br">こんな配当は初めてでした。</span>
+            <span class="br">しばらく画面を</span>
+            <span class="br">見つめてしまいました（笑）</span>
+            <span class="br">本当に感謝です。</span>
+          </p>
+        </div>
         <a class="result-cta" href="http://bit.ly/4nIN410" data-cv="line">
           <span data-edit="cta-label">無料予想を見る</span>
         </a>
