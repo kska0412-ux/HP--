@@ -21,33 +21,13 @@ document.querySelectorAll("[data-phone-link]").forEach((link) => {
   link.setAttribute("href", digits.length >= 10 ? `tel:${digits}` : "#phone");
 });
 
-const referenceImage = document.querySelector("[data-reference-image]");
-const referenceImg = referenceImage?.querySelector("img");
+const estimateForm = document.querySelector("[data-estimate-form]");
+const formNote = document.querySelector("[data-form-note]");
 
-if (referenceImg) {
-  const showReferenceHero = () => {
-    document.body.classList.add("has-reference-hero");
-  };
-
-  const hideReferenceHero = () => {
-    referenceImage.hidden = true;
-    document.body.classList.remove("has-reference-hero");
-  };
-
-  if (referenceImg.complete && referenceImg.naturalWidth > 0) {
-    showReferenceHero();
-  } else {
-    referenceImg.addEventListener("load", showReferenceHero, { once: true });
-  }
-
-  referenceImg.addEventListener("error", hideReferenceHero, { once: true });
-}
-
-const menuButton = document.querySelector(".menu-button");
-
-if (menuButton) {
-  menuButton.addEventListener("click", () => {
-    const expanded = menuButton.getAttribute("aria-expanded") === "true";
-    menuButton.setAttribute("aria-expanded", String(!expanded));
+if (estimateForm && formNote) {
+  estimateForm.addEventListener("submit", (event) => {
+    event.preventDefault();
+    formNote.textContent = "入力内容を受け付けました。公開時は送信先のフォーム連携を設定してください。";
+    formNote.setAttribute("role", "status");
   });
 }
