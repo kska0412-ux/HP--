@@ -5,7 +5,7 @@ const SITE_DATA = {
   coverageLabel: "福岡県全域対応",
   caseCount: "3,000",
   totalCasesLabel: "累計3,000件以上",
-  prefectureCount: "47",
+  prefectureCount: "福岡県全域",
   surveyNote: "自社調べ／2026年6月時点"
 };
 
