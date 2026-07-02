@@ -1,5 +1,5 @@
 const SITE_DATA = {
-  companyName: "○○株式会社",
+  companyName: "結　清掃",
   companyInfo: "〒000-0000 ○○県○○市○○町0-0-0 / 代表者名・許認可情報は公開前に差し替え",
   phone: "050-XXXX-XXXX",
   coverageLabel: "福岡県全域対応",
