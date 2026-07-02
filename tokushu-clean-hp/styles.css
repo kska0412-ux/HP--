@@ -1495,7 +1495,20 @@ textarea {
   }
 
   .final-cta__layout {
-    max-width: var(--content);
+    width: calc(100% - 72px);
+    max-width: none;
+    min-width: 0;
+    margin-left: 14px;
+    margin-right: auto;
+    grid-template-columns: minmax(0, 1fr);
+    overflow-x: clip;
+  }
+
+  .final-cta__copy,
+  .final-cta__buttons,
+  .final-cta__buttons .fv-button {
+    width: 100%;
+    max-width: 100%;
     min-width: 0;
   }
 
@@ -1508,19 +1521,50 @@ textarea {
 
   .estimate-form {
     overflow: hidden;
-    padding: 18px;
+    padding: 16px;
+    justify-self: stretch;
   }
 
   .form-row input,
   .form-row textarea,
   .estimate-form button {
+    display: block;
     width: 100%;
+    inline-size: 100%;
     max-width: 100%;
+    max-inline-size: 100%;
     min-width: 0;
+  }
+
+  .form-row input,
+  .form-row textarea {
+    padding-inline: 12px;
+    overflow: hidden;
+  }
+
+  .fv-button span,
+  .fv-button strong,
+  .form-row label,
+  .form-row input::placeholder,
+  .form-row textarea::placeholder {
+    max-width: 100%;
+    overflow-wrap: break-word;
   }
 
   .form-row textarea {
     overflow-wrap: anywhere;
+  }
+
+  .form-row textarea::placeholder,
+  .form-note {
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  .form-note {
+    max-width: 100%;
+    min-width: 0;
   }
 
   .media-card--before-after::before,
