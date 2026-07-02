@@ -894,12 +894,6 @@ textarea {
   line-height: 1.65;
 }
 
-.service-grid__wide {
-  background:
-    linear-gradient(135deg, rgba(255, 223, 72, .2), rgba(255, 255, 255, .07)) !important;
-  border-color: rgba(255, 223, 72, .38) !important;
-}
-
 .worries {
   background:
     linear-gradient(180deg, #fff 0, #f7f9fc 100%);
