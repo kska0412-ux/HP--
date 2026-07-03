@@ -1039,6 +1039,10 @@ textarea {
   line-height: 1.75;
 }
 
+.voice-card-mobile-break {
+  display: inline;
+}
+
 .final-cta {
   padding: clamp(58px, 9vw, 112px) 0;
   color: #fff;
@@ -1504,12 +1508,41 @@ textarea {
     display: block;
   }
 
-  .final-cta__layout {
-    width: calc(100% - 72px);
-    max-width: none;
+  .voice-grid {
+    width: 100%;
     min-width: 0;
-    margin-left: 14px;
-    margin-right: auto;
+  }
+
+  .voice-grid article {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    overflow: hidden;
+  }
+
+  .voice-grid h3,
+  .voice-grid p {
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .voice-grid p,
+  .voice-grid p .br,
+  .voice-card-mobile-break {
+    overflow-wrap: break-word;
+    word-break: normal;
+    line-break: strict;
+  }
+
+  .voice-card-mobile-break {
+    display: block;
+  }
+
+  .final-cta__layout {
+    width: var(--content);
+    max-width: var(--content);
+    min-width: 0;
+    margin-inline: auto;
     grid-template-columns: minmax(0, 1fr);
     overflow-x: clip;
   }
