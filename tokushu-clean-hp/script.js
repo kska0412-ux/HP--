@@ -1,7 +1,7 @@
 const SITE_DATA = {
   companyName: "結　清掃",
-  companyInfo: "〒000-0000 ○○県○○市○○町0-0-0 / 代表者名・許認可情報は公開前に差し替え",
-  phone: "050-XXXX-XXXX",
+  companyInfo: "〒839-0851 福岡県久留米市御井町1771-49-2-202",
+  phone: "080-3187-8771",
   coverageLabel: "福岡県全域対応",
   caseCount: "3,000",
   totalCasesLabel: "累計3,000件以上",
