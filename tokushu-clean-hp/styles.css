@@ -1998,6 +1998,19 @@ textarea {
     grid-template-columns: minmax(0, 1fr) 32%;
   }
 
+  /* Center each mobile crop on the staff member rather than the background. */
+  .assurance-list article:nth-child(1) .assurance-list__photo img {
+    object-position: 80% center;
+  }
+
+  .assurance-list article:nth-child(2) .assurance-list__photo img {
+    object-position: 75% center;
+  }
+
+  .assurance-list article:nth-child(3) .assurance-list__photo img {
+    object-position: 75% center;
+  }
+
   .assurance-list__copy {
     padding: 18px 12px;
   }
