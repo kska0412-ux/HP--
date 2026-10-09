@@ -127,9 +127,29 @@ textarea {
 
 .hero__stage {
   position: relative;
+  container-type: inline-size;
   width: min(100vw, 1672px);
   margin-inline: auto;
   background: #fff;
+}
+
+.hero__artwork {
+  position: relative;
+}
+
+.hero__certification {
+  position: absolute;
+  z-index: 4;
+  left: 22%;
+  top: .55%;
+  width: 19.5%;
+  height: 11.4%;
+}
+
+.hero__certification img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 .hero__picture {
@@ -156,10 +176,61 @@ textarea {
 }
 
 .hero__hotspot--phone {
-  left: 64.2%;
-  top: 1.5%;
+  left: 64%;
+  top: 1%;
   width: 25%;
-  height: 9.4%;
+  height: 10.7%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: .5cqw;
+  background: #fff;
+  color: var(--ink);
+  font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+  line-height: 1;
+  white-space: nowrap;
+  border-radius: 0;
+}
+
+.hero__hotspot--phone strong {
+  font-size: 2.8cqw;
+  font-weight: 900;
+  letter-spacing: .01em;
+}
+
+.hero__hotspot--phone span {
+  font-size: 1.6cqw;
+  font-weight: 800;
+}
+
+.company-contact-card {
+  display: block;
+  width: min(100%, 1000px);
+  margin: 24px 0 18px;
+  background: #fff;
+}
+
+.company-contact-card img {
+  width: 100%;
+  height: auto;
+}
+
+.company-contact-card:focus-visible,
+.company-details a:focus-visible {
+  outline: 3px solid var(--gold-2);
+  outline-offset: 4px;
+}
+
+.company-details {
+  font-style: normal;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.company-details a {
+  text-decoration: underline;
+  text-underline-offset: .2em;
 }
 
 .hero__mobile-actions {
@@ -1383,6 +1454,28 @@ textarea {
 }
 
 @media (max-width: 767px) {
+  .hero__certification {
+    position: static;
+    width: 100%;
+    height: auto;
+    padding: 8px 0;
+    background: #fff;
+  }
+
+  .hero__certification img {
+    width: min(44%, 220px);
+    height: auto;
+    margin-inline: auto;
+  }
+
+  .hero__hotspot--phone strong {
+    font-size: 3.7cqw;
+  }
+
+  .hero__hotspot--phone span {
+    font-size: 2.4cqw;
+  }
+
   html,
   body {
     width: 100%;

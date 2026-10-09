@@ -12,27 +12,35 @@
     <meta property="og:image" content="assets/firstview.png">
     <link rel="preload" as="image" href="assets/firstview-mobile-musubi.jpg" imagesrcset="assets/firstview-mobile-musubi.jpg 941w" imagesizes="100vw" media="(max-width: 767px)">
     <link rel="preload" as="image" href="assets/firstview.png" imagesrcset="assets/firstview.png 1672w" imagesizes="100vw" media="(min-width: 768px)">
-    <link rel="stylesheet" href="styles.css?v=20260703-mobilefix1">
+    <link rel="stylesheet" href="styles.css?v=20261009-contact1">
   </head>
   <body>
     <main>
       <section class="hero" id="top" aria-label="特殊清掃の無料相談">
         <h1 class="sr-only">特殊清掃なら結　清掃。特殊清掃を最安値で即日解決します。</h1>
         <div class="hero__stage">
-          <picture class="hero__picture">
-            <source media="(max-width: 767px)" srcset="assets/firstview-mobile-musubi.jpg">
-            <img class="hero__image" src="assets/firstview.png" width="1672" height="941" alt="特殊清掃なら結。福岡県全域対応、24時間365日、050-XXXX-XXXX。特殊清掃を最安値で即日解決。お見積り無料、追加費用なし。" fetchpriority="high" decoding="async">
-          </picture>
-          <a class="hero__hotspot hero__hotspot--phone" href="#phone" data-phone-link aria-label="今すぐ電話で相談する"></a>
+          <div class="hero__certification">
+            <img src="assets/certification-badge-hq.png" width="1825" height="862" alt="「使命」を持って、立ち向かう。当事業所には事件現場特殊清掃士の有資格者がいます。" decoding="async">
+          </div>
+          <div class="hero__artwork">
+            <picture class="hero__picture">
+              <source media="(max-width: 767px)" srcset="assets/firstview-mobile-musubi.jpg">
+              <img class="hero__image" src="assets/firstview.png" width="1672" height="941" alt="特殊清掃なら結。福岡県全域対応、24時間365日、080-3187-8771。特殊清掃を最安値で即日解決。お見積り無料、追加費用なし。" fetchpriority="high" decoding="async">
+            </picture>
+            <a class="hero__hotspot hero__hotspot--phone" href="tel:08031878771" data-phone-link aria-label="080-3187-8771に電話で相談する">
+              <strong data-bind="phone">080-3187-8771</strong>
+              <span>年中無休・相談無料</span>
+            </a>
+          </div>
         </div>
         <div class="hero__mobile-actions" aria-label="スマートフォン用問い合わせ">
           <a class="fv-button fv-button--estimate" href="#estimate-form">
             <span>24時間相談無料</span>
             <strong>WEBで無料お見積り</strong>
           </a>
-          <a class="fv-button fv-button--phone" href="#phone" data-phone-link>
-            <span>年中無休・通話無料</span>
-            <strong data-bind="phone">050-XXXX-XXXX</strong>
+          <a class="fv-button fv-button--phone" href="tel:08031878771" data-phone-link>
+            <span>年中無休・相談無料</span>
+            <strong data-bind="phone">080-3187-8771</strong>
           </a>
         </div>
       </section>
@@ -304,9 +312,9 @@
                 <span>入力1分・最短その日にご連絡</span>
                 <strong>WEBで無料お見積り</strong>
               </a>
-              <a class="fv-button fv-button--phone" href="#phone" data-phone-link>
+              <a class="fv-button fv-button--phone" href="tel:08031878771" data-phone-link>
                 <span>今すぐ電話で相談する</span>
-                <strong data-bind="phone">050-XXXX-XXXX</strong>
+                <strong data-bind="phone">080-3187-8771</strong>
               </a>
             </div>
           </div>
@@ -318,7 +326,7 @@
             </div>
             <div class="form-row">
               <label for="tel">電話番号</label>
-              <input id="tel" name="tel" type="tel" autocomplete="tel" placeholder="例：090-0000-0000">
+              <input id="tel" name="tel" type="tel" autocomplete="tel" placeholder="ご連絡先の電話番号">
             </div>
             <div class="form-row">
               <label for="area">対応エリア</label>
@@ -338,13 +346,20 @@
     <footer class="site-footer">
       <div class="container">
         <p><strong data-bind="companyName">結　清掃</strong>｜特殊清掃・原状回復 福岡県全域対応</p>
-        <p data-bind="companyInfo">〒000-0000 ○○県○○市○○町0-0-0 / 代表者名・許認可情報は公開前に差し替え</p>
+        <a class="company-contact-card" href="tel:08031878771" data-phone-link aria-label="会社情報・連絡先。080-3187-8771に電話する">
+          <img src="assets/company-contact-hq.png" width="2170" height="725" alt="事件現場特殊清掃センター。〒839-0851 福岡県久留米市御井町1771-49-2-202。倉庫：福岡県久留米市荒木町荒木1821-1。TEL：080-3187-8771。" loading="lazy" decoding="async">
+        </a>
+        <address class="company-details">
+          <p data-bind="companyInfo">〒839-0851 福岡県久留米市御井町1771-49-2-202</p>
+          <p>倉庫：福岡県久留米市荒木町荒木1821-1</p>
+          <p>電話：<a href="tel:08031878771" data-phone-link><span data-bind="phone">080-3187-8771</span></a></p>
+        </address>
       </div>
     </footer>
 
     <div class="sticky-cta" aria-label="固定問い合わせ">
       <a href="#estimate-form" class="sticky-cta__estimate">WEB見積</a>
-      <a href="#phone" class="sticky-cta__phone" data-phone-link>電話相談</a>
+      <a href="tel:08031878771" class="sticky-cta__phone" data-phone-link>電話相談</a>
     </div>
 
     <script type="application/ld+json">
@@ -353,11 +368,11 @@
         "@type": "LocalBusiness",
         "name": "結　清掃",
         "description": "特殊清掃、孤独死、事故・事件現場、原状回復、消臭脱臭、害虫駆除、遺品整理、火災・水害復旧に福岡県全域で対応します。",
-        "telephone": "050-XXXX-XXXX",
+        "telephone": "080-3187-8771",
         "areaServed": "福岡県全域",
         "openingHours": "Mo-Su 00:00-23:59"
       }
     </script>
-    <script src="script.js"></script>
+    <script src="script.js?v=20261009-contact1"></script>
   </body>
 </html>
