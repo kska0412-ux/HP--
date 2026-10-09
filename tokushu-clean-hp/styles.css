@@ -140,14 +140,22 @@ textarea {
 .hero__certification {
   position: absolute;
   z-index: 4;
-  right: 1.8%;
-  bottom: .3%;
-  width: 15%;
+  right: 56.7%;
+  top: .55%;
+  width: 19.5%;
+  height: 11.4%;
 }
 
 .hero__certification img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: contain;
+  object-position: right center;
+}
+
+.hero__mobile-brand-row,
+.hero__certification-availability {
+  display: none;
 }
 
 .hero__picture {
@@ -1466,10 +1474,91 @@ textarea {
 }
 
 @media (max-width: 767px) {
+  .hero__mobile-brand-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px 12px;
+    background: #fff;
+  }
+
+  .hero__mobile-brand {
+    position: relative;
+    width: 32%;
+    aspect-ratio: 340 / 120;
+    overflow: hidden;
+  }
+
+  .hero__mobile-brand img {
+    position: absolute;
+    width: 491.765%;
+    max-width: none;
+    top: 0;
+    left: 0;
+  }
+
+  .hero__mobile-phone {
+    display: grid;
+    gap: 4px;
+    text-align: center;
+    color: var(--ink);
+    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    line-height: 1.2;
+    white-space: nowrap;
+  }
+
+  .hero__mobile-phone strong {
+    font-size: 5.2cqw;
+    font-weight: 900;
+  }
+
+  .hero__mobile-phone span {
+    font-size: 2.8cqw;
+  }
+
   .hero__certification {
-    right: 1.5%;
-    bottom: 1%;
-    width: 42%;
+    position: static;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 6px;
+    width: 100%;
+    height: auto;
+    padding: 0 12px 6px;
+    background: #fff;
+  }
+
+  .hero__certification > img {
+    width: 100%;
+    height: auto;
+  }
+
+  .hero__certification-availability {
+    display: block;
+    position: relative;
+    aspect-ratio: 310 / 120;
+    overflow: hidden;
+  }
+
+  .hero__certification-availability img {
+    position: absolute;
+    width: 539.355%;
+    max-width: none;
+    height: auto;
+    top: 0;
+    left: -235.484%;
+  }
+
+  .hero__picture {
+    overflow: hidden;
+  }
+
+  .hero__image {
+    margin-top: -14cqw;
+  }
+
+  .hero__artwork .hero__hotspot--phone {
+    display: none;
   }
 
   .hero__hotspot--phone strong {
