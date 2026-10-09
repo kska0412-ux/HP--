@@ -27,7 +27,15 @@ const formNote = document.querySelector("[data-form-note]");
 if (estimateForm && formNote) {
   estimateForm.addEventListener("submit", (event) => {
     event.preventDefault();
-    formNote.textContent = "入力内容を受け付けました。公開時は送信先のフォーム連携を設定してください。";
+    const phrases = ["入力内容を", "受け付けました。", "公開時は", "送信先の", "フォーム連携を", "設定してください。"];
+    formNote.replaceChildren();
+    phrases.forEach((phrase, index) => {
+      if (index > 0) formNote.append(document.createElement("wbr"));
+      const unit = document.createElement("span");
+      unit.className = "copy-unit";
+      unit.textContent = phrase;
+      formNote.append(unit);
+    });
     formNote.setAttribute("role", "status");
   });
 }

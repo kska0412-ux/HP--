@@ -230,8 +230,8 @@ textarea {
 
 .company-details {
   font-style: normal;
-  overflow-wrap: anywhere;
-  word-break: normal;
+  overflow-wrap: normal;
+  word-break: keep-all;
 }
 
 .company-details a {
@@ -254,7 +254,7 @@ textarea {
   text-align: center;
   font-size: clamp(15px, 2.5vw, 19px);
   line-height: 1.7;
-  word-break: normal;
+  word-break: keep-all;
 }
 
 .service-grid p,
@@ -262,8 +262,8 @@ textarea {
 .faq-list summary,
 .flow-grid h3,
 .flow-grid p {
-  word-break: normal;
-  overflow-wrap: break-word;
+  word-break: keep-all;
+  overflow-wrap: normal;
 }
 
 .final-cta__copy {
@@ -272,8 +272,8 @@ textarea {
 
 .final-cta .final-cta__copy h2 {
   font-size: clamp(26px, 9cqw, 52px);
-  word-break: normal;
-  overflow-wrap: break-word;
+  word-break: keep-all;
+  overflow-wrap: normal;
 }
 
 .fv-button {
@@ -297,13 +297,13 @@ textarea {
   transform: translateY(1px) scale(.99);
 }
 
-.fv-button span {
+.fv-button > span {
   font-size: 12px;
   line-height: 1.2;
   font-weight: 900;
 }
 
-.fv-button strong {
+.fv-button > strong {
   font-size: clamp(20px, 5vw, 30px);
   line-height: 1.1;
   font-weight: 900;
@@ -815,7 +815,7 @@ textarea {
   font-weight: 900;
 }
 
-.media-card figcaption span {
+.media-card figcaption > span {
   color: var(--muted);
   font-size: 13px;
   line-height: 1.6;
@@ -973,8 +973,8 @@ textarea {
 }
 
 .services .section-head .br {
-  word-break: normal;
-  overflow-wrap: anywhere;
+  word-break: keep-all;
+  overflow-wrap: normal;
 }
 
 .services .media-card {
@@ -999,7 +999,7 @@ textarea {
   box-shadow: inset 0 0 0 1px rgba(214, 169, 54, .16);
 }
 
-.service-grid span {
+.service-grid article > span {
   display: inline-grid;
   place-items: center;
   min-width: 42px;
@@ -1744,8 +1744,8 @@ textarea {
   .voice-grid p,
   .voice-grid p .br,
   .voice-card-mobile-break {
-    overflow-wrap: break-word;
-    word-break: normal;
+    overflow-wrap: normal;
+    word-break: keep-all;
     line-break: strict;
   }
 
@@ -1800,24 +1800,24 @@ textarea {
     overflow: hidden;
   }
 
-  .fv-button span,
-  .fv-button strong,
+  .fv-button > span,
+  .fv-button > strong,
   .form-row label,
   .form-row input::placeholder,
   .form-row textarea::placeholder {
     max-width: 100%;
-    overflow-wrap: break-word;
+    overflow-wrap: normal;
   }
 
   .form-row textarea {
-    overflow-wrap: anywhere;
+    overflow-wrap: normal;
   }
 
   .form-row textarea::placeholder,
   .form-note {
     white-space: normal;
-    overflow-wrap: anywhere;
-    word-break: normal;
+    overflow-wrap: normal;
+    word-break: keep-all;
   }
 
   .form-note {
@@ -1852,8 +1852,8 @@ textarea {
   .flow-grid p,
   .voice-grid p,
   .final-cta__copy > p:not(.section-label),
-  .media-card figcaption span {
-    overflow-wrap: break-word;
+  .media-card figcaption > span {
+    overflow-wrap: normal;
   }
 }
 
@@ -1886,7 +1886,7 @@ textarea {
     font-size: 28px;
   }
 
-  .fv-button strong {
+  .fv-button > strong {
     font-size: 19px;
   }
 }
@@ -1903,4 +1903,124 @@ textarea {
     animation-duration: .01ms !important;
     animation-iteration-count: 1 !important;
   }
+}
+
+
+/* Copy breaks only at editorial phrase boundaries. Keep particles with words. */
+.metrics article {
+  container-type: inline-size;
+}
+
+.metrics strong {
+  font-size: clamp(26px, 14cqw, 46px);
+}
+
+.copy-unit {
+  display: inline-block;
+  white-space: nowrap;
+  word-break: keep-all;
+  overflow-wrap: normal;
+  vertical-align: baseline;
+}
+
+.media-card figcaption,
+.media-card figcaption > strong,
+.media-card figcaption > span,
+.flow-grid article,
+.voice-grid article {
+  min-width: 0;
+}
+
+.media-card figcaption > strong {
+  font-size: clamp(16px, 2vw, 19px);
+  line-height: 1.65;
+}
+
+.media-card figcaption > span {
+  font-size: 14px;
+  line-height: 1.85;
+}
+
+.media-card--large {
+  display: flex;
+  flex-direction: column;
+}
+
+.media-card--large img {
+  flex: 1;
+  height: auto;
+  min-height: 0;
+}
+
+.media-card--large figcaption {
+  flex: none;
+}
+
+/* Narrow columns become full-width cards before their copy gets cramped. */
+@media (min-width: 768px) and (max-width: 1100px) {
+  .results-intro,
+  .assurance-grid,
+  .services__layout,
+  .worries__layout,
+  .final-cta__layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .media-card--large img {
+    height: auto;
+    min-height: 0;
+  }
+
+  .flow-grid,
+  .voice-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .support-promise__copy {
+    max-width: 100%;
+  }
+
+  .support-promise__lead {
+    font-size: clamp(28px, 4vw, 42px);
+  }
+}
+
+.assurance-list__copy {
+  container-type: inline-size;
+}
+
+.assurance-list__copy h3 {
+  font-size: clamp(18px, 12cqw, 24px);
+}
+
+@media (max-width: 767px) {
+  .assurance-list article {
+    grid-template-columns: minmax(0, 1fr) 32%;
+  }
+
+  .assurance-list__copy {
+    padding: 18px 12px;
+  }
+
+  .support-promise__copy {
+    max-width: 100%;
+  }
+
+  .support-promise__lead {
+    font-size: clamp(23px, 6.3vw, 28px);
+  }
+
+  .voice-grid h3 {
+    font-size: 19px;
+  }
+}
+
+/* A short placeholder avoids splitting an instructional sentence in the field. */
+.form-row textarea {
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+.form-row textarea::placeholder {
+  white-space: nowrap;
 }
