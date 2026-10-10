@@ -1274,6 +1274,49 @@ textarea {
   line-height: 1.6;
 }
 
+.form-honeypot {
+  display: none;
+}
+
+.estimate-form button:disabled {
+  cursor: wait;
+  opacity: .7;
+}
+
+.form-note[data-state="success"] {
+  color: #17613d;
+}
+
+.form-note[data-state="error"],
+.form-note[data-state="activation-required"] {
+  color: #b70212;
+}
+
+.submission-confirmation {
+  min-height: 100svh;
+  display: grid;
+  place-items: center;
+  padding: 30px 0;
+  background: var(--navy);
+}
+
+.submission-confirmation__card {
+  width: min(680px, calc(100% - 28px));
+  padding: clamp(24px, 6vw, 48px);
+  background: var(--white);
+  border: 2px solid var(--gold);
+  border-radius: var(--radius);
+}
+
+.submission-confirmation h1 {
+  font-size: clamp(24px, 5vw, 36px);
+  line-height: 1.5;
+}
+
+.submission-confirmation .fv-button {
+  margin-top: 24px;
+}
+
 .site-footer {
   padding: 30px 0 94px;
   color: rgba(255, 255, 255, .78);

@@ -12,7 +12,7 @@
     <meta property="og:image" content="assets/firstview.png">
     <link rel="preload" as="image" href="assets/firstview-mobile-musubi.jpg" imagesrcset="assets/firstview-mobile-musubi.jpg 941w" imagesizes="100vw" media="(max-width: 767px)">
     <link rel="preload" as="image" href="assets/firstview.png" imagesrcset="assets/firstview.png 1672w" imagesizes="100vw" media="(min-width: 768px)">
-    <link rel="stylesheet" href="styles.css?v=20261009-crop1">
+    <link rel="stylesheet" href="styles.css?v=20261010-mail1">
   </head>
   <body>
     <main>
@@ -337,25 +337,29 @@
             </div>
           </div>
 
-          <form class="estimate-form" action="#" method="post" data-estimate-form>
+          <form class="estimate-form" action="https://formsubmit.co/ukyou31120807@gmail.com" method="post" data-estimate-form>
+            <input type="hidden" name="_subject" value="【結 清掃】無料見積りのお問い合わせ">
+            <input type="hidden" name="_template" value="table">
+            <input type="hidden" name="_next" value="https://kska0412-ux.github.io/HP--/tokushu-clean-hp/thanks.html">
+            <input type="text" name="_honey" class="form-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">
             <div class="form-row">
               <label for="name"><span class="copy-unit">お名前</span></label>
-              <input id="name" name="name" type="text" autocomplete="name" placeholder="例：山田 太郎">
+              <input id="name" name="お名前" type="text" autocomplete="name" placeholder="例：山田 太郎" maxlength="80" required>
             </div>
             <div class="form-row">
               <label for="tel"><span class="copy-unit">電話番号</span></label>
-              <input id="tel" name="tel" type="tel" autocomplete="tel" placeholder="ご連絡先の電話番号">
+              <input id="tel" name="電話番号" type="tel" autocomplete="tel" placeholder="ご連絡先の電話番号" maxlength="40" required>
             </div>
             <div class="form-row">
               <label for="area"><span class="copy-unit">対応エリア</span></label>
-              <input id="area" name="area" type="text" autocomplete="address-level1" placeholder="例：福岡市中央区">
+              <input id="area" name="対応エリア" type="text" autocomplete="address-level1" placeholder="例：福岡市中央区" maxlength="100">
             </div>
             <div class="form-row">
               <label for="message"><span class="copy-unit">ご相談内容</span></label>
-              <textarea id="message" name="message" rows="5" placeholder="清掃・原状回復のご相談"></textarea>
+              <textarea id="message" name="ご相談内容" rows="5" placeholder="清掃・原状回復のご相談" maxlength="4000" required></textarea>
             </div>
             <button type="submit"><span class="copy-unit">無料見積りを</span><wbr><span class="copy-unit">送信する</span></button>
-            <p class="form-note" data-form-note><span class="copy-unit">送信内容は</span><wbr><span class="copy-unit">確認用です。</span><wbr><span class="copy-unit">公開前に</span><wbr><span class="copy-unit">フォーム連携先を</span><wbr><span class="copy-unit">設定してください。</span></p>
+            <p class="form-note" data-form-note role="status" aria-live="polite" aria-atomic="true"><span class="copy-unit">お名前・電話番号・</span><wbr><span class="copy-unit">ご相談内容は</span><wbr><span class="copy-unit">必須です。</span><wbr><span class="copy-unit">内容を確認後、</span><wbr><span class="copy-unit">担当者から</span><wbr><span class="copy-unit">ご連絡します。</span></p>
           </form>
         </div>
       </section>
@@ -391,6 +395,6 @@
         "openingHours": "Mo-Su 00:00-23:59"
       }
     </script>
-    <script src="script.js?v=20261009-wrap1"></script>
+    <script src="script.js?v=20261010-mail1"></script>
   </body>
 </html>
