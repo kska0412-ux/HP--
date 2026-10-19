@@ -2080,3 +2080,127 @@ textarea {
 .form-row textarea::placeholder {
   white-space: nowrap;
 }
+
+/* Editable copy presents all three services with the existing brand palette. */
+.hero--services {
+  background: var(--white);
+  border-bottom: 8px solid var(--navy);
+}
+
+.lp-header {
+  min-height: 94px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding-block: 14px;
+  border-bottom: 1px solid var(--line);
+}
+
+.lp-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--navy);
+  font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+  line-height: 1.3;
+}
+
+.lp-brand__icon {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  width: 51px;
+  height: 54px;
+  flex-shrink: 0;
+}
+
+.lp-brand__icon img {
+  position: absolute;
+  width: 836px;
+  max-width: none;
+  left: -5px;
+  top: -4px;
+}
+
+.lp-brand strong,
+.lp-brand small,
+.lp-header__phone strong,
+.lp-header__phone span {
+  display: block;
+}
+
+.lp-brand strong { font-size: 27px; }
+.lp-brand small { margin-top: 5px; font-size: 12px; }
+.lp-header__phone { text-align: right; line-height: 1.4; }
+.lp-header__phone strong { color: var(--navy); font-size: clamp(22px, 2.8vw, 34px); }
+.lp-header__phone span { font-size: 12px; }
+
+.service-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.08fr) minmax(0, 1fr);
+  align-items: center;
+  gap: 44px;
+  padding-block: 48px;
+}
+
+.service-hero__copy,
+.service-hero__visual { min-width: 0; }
+.service-hero__eyebrow { margin: 0 0 16px; color: var(--navy-2); font-size: 16px; }
+.service-hero h1 { margin: 0; color: var(--navy); font-size: clamp(30px, 3.6vw, 46px); font-weight: 900; line-height: 1.5; letter-spacing: -.04em; }
+.service-hero h1 > span { display: block; white-space: nowrap; }
+.service-hero__lead { margin: 24px 0 14px; color: #c70412; font-size: clamp(25px, 2.7vw, 34px); font-weight: 900; line-height: 1.5; }
+.service-hero__description { margin: 0; font-size: 15px; line-height: 2; }
+.service-hero__actions { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; margin-top: 24px; }
+.service-hero__actions .fv-button { width: 100%; }
+.service-hero__photo { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; object-position: 65% center; border-radius: var(--radius) var(--radius) 0 0; }
+.service-hero__caption { padding: 24px; background: var(--navy); color: var(--white); border-bottom: 4px solid var(--gold); border-radius: 0 0 var(--radius) var(--radius); }
+.service-hero__caption strong { font-size: 22px; line-height: 1.6; }
+.service-hero__caption p { margin: 10px 0 0; font-size: 14px; line-height: 1.9; }
+.service-hero__certification { width: 230px; margin: 24px auto 0; }
+
+.service-grid--main { grid-template-columns: minmax(0, 1fr); }
+.service-grid--main article { padding: 28px; }
+.service-grid--main h3 { margin: 0; color: var(--gold-2); font-size: clamp(22px, 2.2vw, 28px); }
+.service-grid--main .service-card__lead { margin-block: 10px; color: var(--white); font-size: 18px; font-weight: 900; }
+.service-grid--main ul { padding-left: 1.25em; margin: 16px 0 0; color: var(--white); font-size: 14px; }
+.service-grid--main li { padding-block: 3px; }
+.service-grid--main .service-scope-note { padding: 12px 4px; font-size: 14px; line-height: 1.9; }
+.voice-grid .consultation-example__label { margin-top: 0; color: #53627a; font-size: 14px; }
+.lp-header a:focus-visible,
+.service-hero a:focus-visible { outline: 3px solid var(--navy-3); outline-offset: 4px; }
+.service-hero a:active { transform: translateY(1px); }
+
+@media (max-width: 1100px) {
+  .service-hero { gap: 28px; }
+  .service-hero h1 { font-size: clamp(28px, 3.65vw, 40px); }
+}
+
+@media (max-width: 767px) {
+  .lp-header { min-height: 78px; gap: 10px; padding-block: 10px; }
+  .lp-brand { gap: 6px; }
+  .lp-brand strong { font-size: 21px; }
+  .lp-brand small { font-size: 10px; }
+  .lp-brand__icon { width: 40px; height: 45px; }
+  .lp-brand__icon img { width: 700px; left: -5px; top: -3px; }
+  .lp-header__phone strong { font-size: clamp(16px, 4.3vw, 24px); }
+  .lp-header__phone span { font-size: 10px; }
+  .service-hero { grid-template-columns: minmax(0, 1fr); gap: 28px; padding-block: 28px; }
+  .service-hero__eyebrow { margin-bottom: 12px; font-size: 14px; }
+  .service-hero h1 { font-size: clamp(27px, 8.3vw, 44px); line-height: 1.45; }
+  .service-hero__lead { font-size: 27px; margin-top: 20px; }
+  .service-hero__description { font-size: 14px; }
+  .service-hero__actions { margin-top: 20px; }
+  .service-hero__photo { aspect-ratio: 16 / 9; }
+  .service-hero__caption { padding: 20px; }
+  .service-hero__caption strong { font-size: 20px; }
+  .service-hero__certification { width: 205px; margin-top: 18px; }
+  .service-grid--main article { padding: 24px 18px; }
+  .service-grid--main h3 { font-size: clamp(21px, 6.3vw, 28px); }
+}
+
+@media (max-width: 359px) {
+  .lp-brand__icon { display: none; }
+  .lp-brand strong { font-size: 19px; }
+  .service-hero h1 { font-size: 8.1vw; }
+}
